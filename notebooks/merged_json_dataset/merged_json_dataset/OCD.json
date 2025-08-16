@@ -1,0 +1,812 @@
+[
+  {
+    "condition": "Obsessive‑Compulsive Disorder",
+    "source": "https://www.nimh.nih.gov/health/topics/obsessive‑compulsive-disorder-ocd",
+    "section": "Overview",
+    "text1": "Obsessive‑Compulsive Disorder (OCD) is a mental health condition where individuals experience recurrent, unwanted thoughts (obsessions) and feel compelled to perform repetitive behaviors (compulsions).",
+    "text2": "Obsessions often involve fears of contamination, harming others, or needing symmetry, while compulsions are performed to reduce anxiety tied to those obsessions.",
+    "text3": "Symptoms typically begin in late childhood or early adulthood, though they can appear earlier or later in life.",
+    "text4": "OCD can significantly disrupt daily functioning, affecting work, school, relationships, and self-esteem.",
+    "text5": "Despite its chronic nature, OCD is highly treatable—especially when recognized and managed early."
+  },
+  {
+    "condition": "Obsessive‑Compulsive Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over",
+    "section": "Symptoms",
+    "text1": "Obsessions are intrusive ideas or images that cause intense anxiety or distress and are hard to control.",
+    "text2": "Common compulsions include repetitive hand-washing, checking locks, arranging items, counting, and repeating words or rituals.",
+    "text3": "Compulsions may temporarily reduce anxiety but can become time-consuming, interfering with daily life.",
+    "text4": "Some individuals experience 'mental compulsions,' such as silently repeating phrases or praying to neutralize obsessions.",
+    "text5": "Both obsessions and compulsions can vary in content and severity, and often co-occur with anxiety or depressive disorders."
+  },
+  {
+    "condition": "Obsessive‑Compulsive Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over",
+    "section": "Causes",
+    "text1": "The exact causes of OCD are not fully known but include genetic, neurological, cognitive, and environmental factors.",
+    "text2": "Brain imaging studies suggest functional and structural differences in areas that regulate fear response and decision-making.",
+    "text3": "People with family members who have OCD are at increased risk, indicating a hereditary contribution.",
+    "text4": "Stressful life events such as illness, relationship problems, or trauma may trigger or exacerbate OCD symptoms in vulnerable individuals.",
+    "text5": "Learned behavioral patterns and cognitive beliefs—such as overestimating threats—can also reinforce obsession-compulsion cycles."
+  },
+  {
+    "condition": "Obsessive‑Compulsive Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over",
+    "section": "Treatment Options",
+    "text1": "Cognitive Behavioral Therapy (CBT), specifically Exposure and Response Prevention (ERP), is considered the gold standard treatment for OCD.",
+    "text2": "ERP involves gradual exposure to obsessional triggers without engaging in compulsive behaviors, helping reduce fear and urge over time.",
+    "text3": "Selective serotonin reuptake inhibitors (SSRIs) are often effective in reducing OCD symptoms, especially at higher doses.",
+    "text4": "In treatment-resistant cases, other medications like clomipramine or augmentation strategies may be considered.",
+    "text5": "For severe OCD that does not respond to therapy or medication, advanced interventions like deep brain stimulation (DBS) or transcranial magnetic stimulation (TMS) may be explored."
+  },
+  {
+    "condition": "Obsessive‑Compulsive Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over",
+    "section": "Coping Tips",
+    "text1": "Set aside a brief daily ‘worry period’ to acknowledge obsessive thoughts in a structured way and postpone them when necessary.",
+    "text2": "Practice self-care routines like sleep hygiene, regular exercise, and balanced nutrition to support emotional resilience.",
+    "text3": "Keep a journal to track triggers, thoughts, and urges to better understand and manage patterns.",
+    "text4": "Mindfulness and grounding techniques like deep breathing or meditation can help interrupt obsessive-compulsive cycles.",
+    "text5": "Connect with support groups or loved ones to reduce isolation and gain encouragement during challenging moments."
+  },
+  {
+    "condition": "Obsessive‑Compulsive Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over",
+    "section": "When to Seek Help",
+    "text1": "Seek help if obsessions or compulsions consume significant time, cause distress, or interfere with daily functioning.",
+    "text2": "If avoidance behaviors limit your ability to work, attend school, or maintain relationships, professional assessment is important.",
+    "text3": "Immediate help is crucial if OCD symptoms lead to dangerous behaviors or severe anxiety.",
+    "text4": "A mental health provider like a psychiatrist or psychologist can properly diagnose and develop a treatment plan tailored to your needs.",
+    "text5": "Early intervention improves quality of life and increases the likelihood of symptom improvement with treatment."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i wash my hands until they bleed just to feel clean enough"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "if i dont check the door three times i panic all day"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "my thoughts tell me something bad will happen if i dont follow a ritual"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i cant step on sidewalk cracks without feeling intense anxiety"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i repeat prayers in my head to cancel out bad thoughts"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i get stuck counting objects over and over"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i rewrite sentences multiple times until they feel right"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i have to arrange items symmetrically or i get overwhelmed"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i worry ill accidentally hurt someone even though i never would"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i clean my room obsessively but never feel satisfied"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "if someone moves my things i feel completely thrown off"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i reread messages dozens of times before sending them"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i check the stove every night even if i havent cooked"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i avoid using public restrooms due to contamination fears"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "im haunted by violent or inappropriate thoughts i dont want"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i repeat certain phrases to undo bad luck"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i tap objects in a certain sequence to feel okay"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i ask for constant reassurance that i didnt do something wrong"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i cant stop thinking about whether i left the lights on"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i redo tasks until they feel just right"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i avoid specific numbers because they feel unlucky"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i spend hours aligning things perfectly"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i obsess over germs and carry sanitizer everywhere"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i feel compelled to confess even the smallest mistakes"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i count steps while walking and start over if i mess up"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i fear ill say something offensive even when i havent"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i worry i forgot something crucial even when i havent"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i organize everything obsessivelybooks clothes files"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i feel like my mind is stuck on a loop"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i triplecheck everything before i leave the house"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i feel immense guilt over things i cant control"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i mentally replay events trying to figure out if i did something wrong"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i have cleaning rituals that take hours"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i avoid touching doorknobs unless i use my sleeve"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i get panic attacks if i break my rituals"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i have to start tasks over if im interrupted"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i feel intense dread if my routine is broken"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i often get stuck in analysis paralysis"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i cant stop thinking what if i did something terrible and forgot"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i feel like im constantly checking my mind for bad thoughts"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i avoid knives or sharp objects in case i lose control"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i ask others to confirm my memory of things"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i worry about being contaminated by touching certain people"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i fear ive lied even when i know i havent"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i cant focus on work until everything around me is in order"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i spend hours cleaning one item just to be sure its safe"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i sometimes lose sleep over needing to redo something correctly"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i dread using public places due to obsessive thoughts"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i feel controlled by my routines but i cant stop them"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i hate how much time i waste trying to fix my thoughts"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I wash my hands until they bleed just to feel clean enough."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I wash my hands until they bleed just to feel clean enough. i wash my hands until they bleed just to feel clean enough."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "If I don't check the door three times i panic all day."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "If i don't check the door three times i panic all day."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "My thoughts tell me something bad will happen if i don't follow a ritual..............................................."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "My thoughts tell me something bad will happen if i don't follow a ritual..............................................."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I cant step on sidewalk cracks without feeling intense anxiety."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I can't step on sidewalk cracks without feeling intense anxiety."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I repeat prayers in my head to cancel out bad thoughts."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I repeat prayers in my head to cancel out bad thoughts. Is there a way to do this?"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I get stuck counting objects over and over again."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I get stuck counting objects over and over again. How can I solve this problem?"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i rewrite sentences multiple times until they feel right. i rewrite sentences until they feel right. i rewrite sentences until they feel right. i rewrite sentences until they feel right. i rewrite sentences until they feel right. i rewrite sentences until they feel right. i rewrite sentences until they feel right. i rewrite sentences until they feel right. i rewrite sentences until they feel right. i rewrite sentences until they feel right."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i rewrite sentences multiple times until they feel right. i rewrite sentences until they feel right. i rewrite sentences until they feel right. i rewrite sentences until they feel right. i rewrite sentences until they feel right. i rewrite sentences until they feel right. i rewrite sentences until they feel right. i rewrite sentences until they feel right. i rewrite sentences until they feel right. i rewrite sentences. i rewrite"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I have to arrange items symmetrically or i get overwhelmed."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I have to arrange items symmetrically or I get overwhelmed."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I worry ill accidentally hurt someone even though i never would.................................................."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I worry ill accidentally hurt someone even though i never would.................................................."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I clean my room obsessively but never feel satisfied."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I clean my room everyday but never feel satisfied."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "If someone moves my stuff i feel completely thrown off."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "If someone moves my stuff, I feel completely thrown off."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I reread messages dozens of times before sending them. i reread messages dozens of times before sending them. i reread messages dozens of times before sending them. i reread messages dozens of times before sending them. i reread messages dozens of times before sending them. i reread messages dozens of times before sending them. i reread messages dozens of times before sending them. i reread messages dozens of times before sending them. i"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I reread messages dozens of times before sending them. i reread messages dozens of times before sending them. i reread messages dozens of times before sending them. i reread messages dozens of times before sending them. i reread messages dozens of times before sending them. i reread messages dozens of times before sending them. i reread messages dozens of times before sending them. i reread messages dozens of times. i reread"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I check my stove every night even if I haven't cooked."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I check the stove every night even if i haven't cooked."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I avoid using public restrooms due to contamination fears."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I avoid using public restrooms due to contamination fears. i avoid using public restrooms due to contamination fears."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I'm haunted by thoughts i don't want. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I'm haunted by thoughts i don't want. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm afraid. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm scared. I'm"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I repeat certain phrases to undo bad luck."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "How do I undo bad luck?"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I tap objects in a certain sequence to feel okay. i tap objects in a certain sequence to feel okay. i tap objects in a certain sequence to feel okay. i tap objects in a certain sequence to feel okay. i tap objects in a certain sequence to feel okay. i tap objects in a certain sequence to feel okay. i tap objects in a certain sequence to feel okay. i tap objects in a certain sequence to feel okay. i tap objects in a certain sequence to"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I tap objects in a certain sequence to feel okay. i tap objects in a certain sequence to feel okay. i tap objects in a certain sequence to feel okay. i tap objects in a certain sequence to feel okay. i tap objects in a certain sequence to feel okay. i tap objects in a certain sequence to feel okay. i tap objects in a certain sequence to feel okay. i tap objects in a certain sequence to feel okay. i tap things in a certain sequence to"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I ask for constant reassurance that i didnt do anything wrong. i ask for constant reassurance that i didnt do anything wrong."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I ask for constant reassurance that i didnt do something wrong. i ask for constant reassurance that i didnt do anything wrong."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I can't stop thinking about whether I left the lights on or not."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I can't stop thinking about whether i left the lights on or not."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I redo tasks until they feel just right. I don't know why."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I redo tasks until they feel just right. I don't know what to do with them."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I avoid specific numbers because they feel unlucky. i avoid specific numbers because they feel unlucky. i avoid specific numbers because they feel unlucky. i avoid specific numbers because they feel unlucky. i avoid specific numbers because they feel unlucky. i avoid specific numbers because they feel unlucky. i avoid specific numbers because they feel unlucky. i avoid specific numbers because they feel unlucky. i avoid specific numbers because they feel unlucky. i avoid specific numbers because"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I avoid specific numbers because they feel unlucky. i avoid specific numbers because they feel unlucky. i avoid specific numbers because they feel unlucky. i avoid specific numbers because they feel unlucky. i avoid specific numbers because they feel unlucky. i avoid specific numbers because they feel unlucky. i avoid specific numbers because they feel unlucky. i avoid specific numbers because they feel unlucky. i avoid specific numbers because they feel unlucky."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly. i spend hours aligning things perfectly."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I obsess over germs and carry sanitizer everywhere i go."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I obsess over germs and carry sanitizer everywhere I go."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I feel compelled to confess even the smallest mistakes."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I feel compelled to confess even the smallest mistake."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I count steps while walking and start over if i mess up................................................."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I count steps while walking and start over if i mess up................................................. I"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I fear ill say something offensive even when i havent. i fear ill say something offensive even when i havent. i fear ill say something offensive even when i havent. i fear ill say something offensive even when i havent. i fear ill say something offensive even when i havent."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I fear ill say something offensive even when i havent."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I worry i forgot something crucial even when i havent."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I worry i forgot something crucial even when i havent forgotten anything."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I organize everything obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "How do I organize everything obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsessivelybooks clothes files obsess"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I feel like my mind is stuck on a loop."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I feel like my mind is stuck in a loop."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I triplecheck everything before I leave the house. i triplecheck everything before i leave the house. i triplecheck everything before i leave the house. i triplecheck everything before i leave the house. i triplecheck everything before i leave the house. i triplecheck everything before i leave the house. i triplecheck everything before i leave the house. i triplecheck everything before i leave the house. i triplecheck everything before i leave the house. i triplecheck everything before"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I triplecheck everything before i leave the house. i triplecheck everything before i leave the house. i triplecheck everything before i leave the house. i triplecheck everything before i leave the house. i triplecheck everything before i leave the house. i triplecheck everything before i leave the house. i triplecheck everything before i leave the house. i triplecheck everything before i leave the house. i triplecheck everything before i leave the house. i triplecheck everything before"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I feel immense guilt over things i cant control."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I feel immense guilt over things i can't control."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I mentally replay events trying to figure out if I did something wrong."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I mentally replay events trying to figure out if i did something wrong."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I have cleaning rituals that take hours to complete. i have a lot of them. i have a lot of them. i have a lot of them. i have a lot of them. i have a lot of them. i have a lot of them. i have a lot of them. i have a lot of them. i have a lot of them. i have a lot of them. i have a lot of them. i have"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "i have cleaning rituals that take hours to complete. i have a lot of them. i have a lot of them. i have a lot of them. i have a lot of them. i have a lot of them. i have a lot of them. i have a lot of them. i have a lot of them. i have a lot of them. i have a lot of them. i have a lot of them. i"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I avoid touching doorknobs unless i use my sleeve. i don't wear my sleeve. i don't wear my sleeve. i don't wear my sleeve. i don't wear my sleeve. i don't wear my sleeve. i don't wear my sleeve. i don't wear my sleeve. i don"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I avoid touching doorknobs unless i use my sleeve. i don't wear my sleeve. i don't wear my sleeve. i don't wear my sleeve. i don't wear my sleeve. i don't wear my sleeve. i don't wear my sleeve. i don't wear my sleeve. I don'"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I get panic attacks if I break my rituals."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I get panic attacks when I break my rituals."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I have to start over if I'm interrupted. i have to start over. i have to start over again. i have to start over again. i have to start over again. i have to start over again. i have to start over again. i have to start over again. i have to start over again. i have to start over again. i have to start over again. i have to start over again. i have to start over again. i have to start over"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I have to start over if I'm interrupted. i have to start over again. i have to start over again. i have to start over again. i have to start over again. i have to start over again. i have to start over again. i have to start over again. i have to start over again. i have to start over again. i have to start over again. i have to start over again. i have to start over again. i have to start"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I feel intense dread if my routine is broken."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I feel intense dread if my routine is broken. i feel intense dread if my routine is broken."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get stuck in analysis paralysis."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get stuck in analysis paralysis. i often get"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I can't stop thinking what would happen if I did something terrible and forgot about it?"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "What would happen if I did something terrible and forgot about it?"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I feel like im constantly checking my mind for bad thoughts."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I feel like I'm constantly checking my mind for bad thoughts."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I avoid knives or sharp objects in case i lose control. i avoid knives or sharp objects in case i lose control."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I avoid knives or sharp objects in case I lose control. i avoid knives or sharp objects in case i lose control."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I ask others to confirm my memory of things. i ask them to confirm my memory of things. i ask them to confirm my memory of things. i ask them to confirm my memory of things. i ask them to confirm my memory of things. i ask them to confirm my memory of things. i ask them to confirm my memory of things. i ask them to confirm my memory of things. i ask them to confirm my memory of things. i ask them to confirm my memory of things. i ask them"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I ask others to confirm my memory of things. i ask others to confirm my memory of things. i ask others to confirm my memory of things. i ask others to confirm my memory of things. i ask others to confirm my memory of things. i ask others to confirm my memory of things. i ask others to confirm my memory of things. i ask others to confirm my memory of things. i ask others to confirm my memory of things. i ask others to confirm my memory of things."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I worry about being contaminated by touching certain people."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I worry about being contaminated by touching certain people. I worry about being contaminated by touching certain people."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I fear ive lied even when i know i havent."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I fear ive lied even when I know i havent."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I can't focus on work until everything around me is in order. i can't focus on work until everything is in order. i can't focus on work until everything around me is in order. i can't focus on work until everything is in order. i can't focus on work until everything is in order. i can't focus on work until everything is in order. i can't focus on work until everything is in order. i can't focus on work until everything is in"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I can't focus on work until everything around me is in order. i can't focus on work until everything around me is in order. i can't focus on work until everything around me is in order. i can't focus on work until everything around me is in order. i can't focus on work until everything around me is in order. i can't focus on work until everything around me is in order. i can't focus on work until everything is in order. i can'"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I spend hours cleaning just one item just to be sure its safe."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I spend hours cleaning one item just to be sure its safe."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I sometimes lose sleep over needing to redo something correctly."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I sometimes lose sleep over needing to redo something."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I dread using public places due to obsessive thoughts."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I dread using public places due to obsessive thoughts. I dread using public places due to obsessive thoughts."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I feel controlled by my routines but i cant stop them."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "I feel controlled by my routines but i can't stop them."
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "How much time do I waste trying to fix my thoughts?"
+  },
+  {
+    "condition": "OCD",
+    "section": "User Descriptions",
+    "text": "How much time i waste trying to fix my thoughts?"
+  }
+]

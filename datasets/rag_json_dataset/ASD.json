@@ -1,0 +1,62 @@
+[
+  {
+    "condition": "Autism Spectrum Disorder",
+    "source": "https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd",
+    "section": "Overview",
+    "text1": "Autism spectrum disorder (ASD) is a neurological and developmental condition that impacts how people interact with others, communicate, learn, and behave.",
+    "text2": "ASD typically appears in the first two years of life and affects individuals across all racial, ethnic, and socioeconomic groups.",
+    "text3": "It is called a 'spectrum' disorder because there is wide variation in the type and severity of symptoms people experience.",
+    "text4": "Some individuals with ASD may have significant challenges and require substantial support, while others may be highly independent.",
+    "text5": "Although ASD is a lifelong condition, early diagnosis and intervention can lead to improved outcomes over time."
+  },
+  {
+    "condition": "Autism Spectrum Disorder",
+    "source": "https://www.nimh.nih.gov/health/statistics/autism-spectrum-disorder-asd",
+    "section": "Symptoms",
+    "text1": "Common symptoms include challenges in social communication and interaction across multiple contexts.",
+    "text2": "Individuals may have difficulty understanding social cues, maintaining eye contact, or engaging in typical conversation.",
+    "text3": "They may show repetitive movements or speech, strict routines, or highly focused interests.",
+    "text4": "Sensory sensitivities are also common, including overreaction or underreaction to lights, sounds, or textures.",
+    "text5": "These symptoms can interfere with social, academic, or occupational functioning, depending on their severity."
+  },
+  {
+    "condition": "Autism Spectrum Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder",
+    "section": "Causes",
+    "text1": "ASD arises from a complex interplay of genetic and environmental influences.",
+    "text2": "Multiple genes have been linked to autism, and mutations or disruptions in brain development may contribute.",
+    "text3": "Environmental factors—such as parental age, pregnancy complications, or exposure to toxins—may increase risk.",
+    "text4": "Research shows shared molecular pathways between ASD and other neurological conditions like ADHD or epilepsy.",
+    "text5": "ASD is **not** caused by vaccines; this misconception has been scientifically disproven."
+  },
+  {
+    "condition": "Autism Spectrum Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder",
+    "section": "Diagnosis",
+    "text1": "Diagnosis of ASD involves evaluating developmental history, behavior, and social functioning.",
+    "text2": "Pediatricians may conduct initial screenings during routine checkups using standardized tools.",
+    "text3": "If concerns are noted, a comprehensive evaluation by specialists such as psychologists or developmental pediatricians is recommended.",
+    "text4": "Criteria from the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) are used for formal diagnosis.",
+    "text5": "ASD can be diagnosed as early as 18 to 24 months, and early identification is key to effective intervention."
+  },
+  {
+    "condition": "Autism Spectrum Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder",
+    "section": "Treatment Options",
+    "text1": "There is no one-size-fits-all treatment for ASD; interventions are tailored to individual strengths and needs.",
+    "text2": "Behavioral therapies, especially Applied Behavior Analysis (ABA), are widely used and evidence-based.",
+    "text3": "Speech therapy, occupational therapy, and social skills training can support communication and independence.",
+    "text4": "Some individuals may benefit from medications that address related symptoms like anxiety, irritability, or attention issues.",
+    "text5": "Family education and involvement in treatment planning significantly enhance progress and outcomes."
+  },
+  {
+    "condition": "Autism Spectrum Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder",
+    "section": "When to Seek Help",
+    "text1": "Parents should consult a health professional if they notice delays in speech, social smiling, eye contact, or play behavior.",
+    "text2": "Warning signs may include limited verbal communication, lack of response to name, or repetitive movements.",
+    "text3": "Early screening tools are available and can be administered by pediatricians during well-child visits.",
+    "text4": "The earlier a child is evaluated and receives services, the better the long-term developmental outcomes.",
+    "text5": "Support is also available for adolescents and adults diagnosed later in life; seeking help at any age is beneficial."
+  }
+]

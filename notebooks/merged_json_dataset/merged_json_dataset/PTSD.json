@@ -1,0 +1,812 @@
+[
+  {
+    "condition": "PTSD",
+    "source": "https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd",
+    "section": "Overview",
+    "text1": "Post‑traumatic stress disorder (PTSD) is a mental health condition that can develop after experiencing or witnessing a traumatic event.",
+    "text2": "Such events may include combat, assault, natural disasters, or severe accidents.",
+    "text3": "PTSD is diagnosed when symptoms persist for more than one month and significantly interfere with daily functioning.",
+    "text4": "It affects emotional well-being, leading to heightened alertness, intrusive memories, and impairment in social and occupational areas.",
+    "text5": "Although many people experience trauma, only a subset develop PTSD, influenced by individual vulnerability and support systems."
+  },
+  {
+    "condition": "PTSD",
+    "source": "https://www.nimh.nih.gov/health/publications/post-traumatic-stress-disorder-ptsd",
+    "section": "Symptoms",
+    "text1": "Intrusive symptoms include flashbacks, unwanted memories, or nightmares of the traumatic event.",
+    "text2": "Avoidance symptoms involve steering clear of reminders like people, places, or situations associated with the trauma.",
+    "text3": "Mood and thought changes may include persistent negative beliefs, memory gaps, or inability to feel positive emotions.",
+    "text4": "Arousal and reactivity symptoms include being easily startled, hypervigilance, irritability, and sleep disturbances.",
+    "text5": "Many individuals with PTSD also experience problems like concentration difficulties and feelings of detachment from others."
+  },
+  {
+    "condition": "PTSD",
+    "source": "https://www.nimh.nih.gov/health/statistics/post-traumatic-stress-disorder-ptsd",
+    "section": "Causes",
+    "text1": "PTSD arises after exposure to actual or threatened death, serious injury, or sexual violence.",
+    "text2": "Not everyone exposed to trauma develops PTSD; genetic, psychological, and social factors influence risk.",
+    "text3": "Factors like prior trauma, lack of support, and personal coping style can increase vulnerability.",
+    "text4": "Brain changes in areas that regulate stress and emotion (e.g., amygdala, prefrontal cortex) may contribute.",
+    "text5": "Hormonal responses to stress (like cortisol dysregulation) may set the stage for persistent PTSD symptoms."
+  },
+  {
+    "condition": "PTSD",
+    "source": "https://www.nimh.nih.gov/health/publications/post-traumatic-stress-disorder-ptsd",
+    "section": "Treatment Options",
+    "text1": "Trauma-focused psychotherapies, such as CBT and prolonged exposure therapy, are frontline treatments for PTSD.",
+    "text2": "Eye Movement Desensitization and Reprocessing (EMDR) helps reprocess traumatic memories in a controlled setting.",
+    "text3": "Medications, including SSRIs, may reduce intensity of symptoms like hyperarousal and intrusive thoughts.",
+    "text4": "Support services—like group therapy, peer support, and family counseling—add important layers of care.",
+    "text5": "Self-care practices such as relaxation training, grounding techniques, and structured routines support recovery."
+  },
+  {
+    "condition": "PTSD",
+    "source": "https://www.nimh.nih.gov/health/publications/post-traumatic-stress-disorder-ptsd",
+    "section": "Coping Tips",
+    "text1": "Grounding techniques—like focusing on breathing or noticing surroundings—help reduce dissociation or flashbacks.",
+    "text2": "Maintain routines, including sleep, nutrition, and physical activity, to stabilize mood and energy levels.",
+    "text3": "Build strong support networks; sharing experiences with trusted people helps reduce isolation.",
+    "text4": "Avoid substances like alcohol or drugs that can worsen symptoms or interfere with treatment.",
+    "text5": "Journaling or creative activities can help express and process complex emotions safely."
+  },
+  {
+    "condition": "PTSD",
+    "source": "https://www.nimh.nih.gov/health/publications/post-traumatic-stress-disorder-ptsd",
+    "section": "When to Seek Help",
+    "text1": "Seek help if PTSD symptoms are prolonged and impair daily functioning or relationships.",
+    "text2": "Immediate care is necessary if experiencing suicidal thoughts or severe emotional distress.",
+    "text3": "You can start support through primary care, veterans’ services, or mental health professionals.",
+    "text4": "Early treatment can lower the risk of chronic PTSD and improve long-term functioning.",
+    "text5": "Even if you’re unsure, a mental health provider can perform an assessment and guide you to care."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "loud noises make me panicthey remind me of what happened"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i keep having flashbacks to that day"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i avoid going near that streetit brings back too much"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i wake up sweating from nightmares"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "my heart races whenever i hear something similar to that sound"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i try not to think about it but it keeps coming back"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i feel numb most of the time"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i get startled really easily now"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i cant stop scanning for threats even when im safe"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i dont feel like myself anymore"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i avoid people and places that remind me of what happened"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i cant talk about itits too painful"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i keep seeing it in my mind like a movie on repeat"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i feel guilty for surviving"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i cant relaxim always on edge"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i get angry without knowing why"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i isolate myself because no one understands"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i hate being in crowdsthey make me feel trapped"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i feel like im back there even though i know im not"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "im afraid to sleep because the dreams are too real"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i flinch when someone touches me unexpectedly"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i dont feel safe even in my own home"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i avoid talking to people because i feel broken"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i cant stop blaming myself"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i keep hearing sounds from that day"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i feel like i failed to protect the people i care about"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "certain smells make me feel like its all happening again"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i pretend im okay but im not"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i get migraines when i try to remember"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i cant watch movies with violence anymore"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i cry suddenly without knowing why"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i always sit near exits just in case"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i cant trust people easily now"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i hate surprisesthey make me feel threatened"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i feel like im stuck in the past"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i dont enjoy anything like i used to"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i freeze up when someone raises their voice"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i feel like im constantly in danger"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i worry that something bad will happen again"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "im tired of pretending im fine"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i feel disconnected from my body"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i keep reliving the trauma in my head"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i push people away to protect myself"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i cant remember parts of the event and that scares me"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i feel like i dont deserve to be happy"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i wish i could forget everything"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i hate when people say just move on"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i zone out and lose track of time"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "im always bracing for the worst"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i feel broken in ways no one can see"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "Why do loud noises make me panic?"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "Why do loud noises make me panic? They remind me of what happened."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I keep having flashbacks to that day. i keep having flashbacks to that day. i keep having flashbacks to that day. i keep having flashbacks to that day. i keep having flashbacks to that day. i keep having flashbacks to that day. i keep having flashbacks to that day. i keep having flashbacks to that day. i keep having flashbacks to that day. i keep having flashbacks to that day. i keep having"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I keep having flashbacks to that day. i keep having flashbacks to that day. i keep having flashbacks to that day. i keep having flashbacks to that day. i keep having flashbacks to that day. i keep having flashbacks to that day. i keep having flashbacks to that day. i keep having flashbacks to that day. i keep having flashbacks to that day. i keep having flashbacks to that day."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I avoid going near that streetit brings back too much."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I avoid going near that streetit brings back too much. i avoid going near that streetit brings back too much."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I wake up sweating from nightmares. i wake up sweating from nightmares. i wake up sweating from nightmares. i wake up sweating from nightmares. i wake up sweating from nightmares. i wake up sweating from nightmares. i wake up sweating from nightmares. i wake up sweating from nightmares. i wake up sweating from nightmares. i wake up sweating from nightmares. i wake up sweating from nightmares. i wake up"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I wake up sweating from nightmares. i wake up sweating from nightmares. i wake up sweating from nightmares. i wake up sweating from nightmares. i wake up sweating from nightmares. i wake up sweating from nightmares. i wake up sweating from nightmares. i wake up sweating from nightmares. i wake up sweating from nightmares. i wake up sweating from nightmares. i wake up sweating from nightmares. I wake up sweat"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "My heart beats whenever I hear something similar to that sound."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "My heart races whenever I hear something similar to that sound."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I try not to think about it but it keeps coming back."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I try not to think about it but it keeps coming back. I try not to think about it but it keeps coming back."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I feel numb most of the time."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "Why do I feel numb most of the time?"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I get startled really easily now."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I get really startled really easily now."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I can't stop scanning for threats even when im safe."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I cant stop scanning for threats even when im safe."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I don't feel like myself anymore."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I dont feel like myself anymore."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I avoid people and places that remind me of what happened."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I avoid people and places that remind me of what happened. i avoid people and places that remind me of what happened."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I cant talk about itits too painful."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I can't talk about itits too painful."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I keep seeing it in my mind like a movie on repeat."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I keep seeing it in my mind like a movie on repeat. i keep seeing it in my mind like a movie on repeat."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving. i feel guilty for surviving."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I can't relaxim always on edge."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I cant relaxim always on edge."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "Why do I get angry when I don't know why?"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "Why do I get angry when I don't know what to do?"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I isolate myself because no one understands me."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "Why do I isolate myself because no one understands me?"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I hate being in crowds. They make me feel trapped."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I hate crowds. They make me feel trapped."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I feel like im back there even though i know im not there."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I feel like im back there even though i know im not there yet."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I'm afraid to sleep because my dreams are too real."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I am afraid to sleep because my dreams are too real."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I flinch when someone touches me unexpectedly."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "Why do I flinch when someone touches me unexpectedly?"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I don't feel safe even in my own home."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I feel unsafe even in my own home."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I avoid talking to people because I feel broken."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I avoid talking to people because i feel broken."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I can't stop blaming myself. I can't stop blaming myself. I can't stop blaming myself. I can't stop blaming myself. I can't stop blaming myself. I can't stop blaming myself. I can't stop blaming myself. I can't stop blaming myself. I can't stop blaming myself. I can't stop blaming myself. I can'"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I can't stop blaming myself. I can't stop blaming myself. I can't stop blaming myself. I can't stop blaming myself. I can't stop blaming myself. I can't stop blaming myself. i can't stop blaming myself. i can't stop blaming myself. i can't stop blaming myself. i can't stop blaming myself"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day. i keep hearing sounds from that day."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I feel like i failed to protect the people i care about."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I feel like i failed to protect the people I care about."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "Certain smells make me feel like its all happening again."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "Certain smells make me feel like it's all happening again."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I pretend I'm okay but im not. I'm not okay. I'm not okay. I'm not okay. I'm not okay. I'm not okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I pretend I'm okay but im not. I'm not okay. I'm not okay. I'm not okay. I'm not okay. I'm not okay. I'm not okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "Why do I get migraines when I try to remember things?"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "Why do I get migraines when I try to remember everything?"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I can't watch movies with violence anymore."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I cant watch movies with violence anymore."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "Why do I cry so suddenly without knowing?"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "Why do I cry so suddenly without knowing why?"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I always sit near exits just in case."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I always sit near exits just in case. i always sit near exits just in case."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I cant trust people easily now. i cant trust people easily now."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I cant trust people easily now. I cant trust people easily now."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I hate surprises. They make me feel threatened."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I hate surprises, they make me feel threatened."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I feel like im stuck in the past."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I feel like I'm stuck in the past."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i dont enjoy anything like i used to. i dont enjoy anything like i used to. i dont enjoy anything like i used to. i dont enjoy anything like i used to. i dont enjoy anything like i used to. i dont enjoy anything like i used to. i dont enjoy anything like i used to. i dont enjoy anything like i used to. i dont enjoy anything like i used to. i dont enjoy anything like i used to. i dont"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i dont enjoy anything like i used to. i dont enjoy anything like i used to. i dont enjoy anything like i used to. i dont enjoy anything like i used to. i dont enjoy anything like i used to. i dont enjoy anything like i used to. i dont enjoy anything like i used to. i dont enjoy anything like i used to. i dont enjoy anything like i used to. i dont enjoy anything like i used to."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I freeze up when someone raises their voice."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "Why do I freeze up when someone raises their voice?"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I feel like im constantly in danger."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I feel like I'm constantly in danger."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I worry that something bad will happen again and again. I worry that something bad will happen again and again."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I worry that something bad will happen again and again. i worry that something bad will happen again and again."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I'm tired of pretending I'm fine. Im tired of pretending I'm fine. Im tired of pretending I'm fine. Im tired of pretending I'm fine. Im tired of pretending I'm fine. Im tired of pretending I'm fine. Im tired of pretending I'm fine. Im tired of pretending I'm fine. Im tired of pretending I'm fine. Im tired of pretending I'm fine. Im tired of pretending I'm fine. Im"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I'm tired of pretending I'm fine. Im tired of pretending I'm fine. Im tired of pretending I'm fine. Im tired of pretending I'm fine. Im tired of pretending I'm fine. Im tired of pretending I'm fine. Im tired of pretending I'm fine. Im tired of pretending I'm fine. Im tired of pretending I'm fine. Im tired of pretending I'm fine. Im tired of pretending I'm fine."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "Why do I feel disconnected from my body?"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I feel disconnected from my body."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I keep reliving the trauma in my head. i keep reliving the trauma in my head. i keep reliving the trauma in my head. i keep reliving the trauma in my head. i keep reliving the trauma in my head. i keep reliving the trauma in my head. i keep reliving the trauma in my head. i keep reliving the trauma in my head. i keep reliving the trauma in my head. i keep reliving"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "i keep reliving the trauma in my head. i keep reliving the trauma in my head. i keep reliving the trauma in my head. i keep reliving the trauma in my head. i keep reliving the trauma in my head. i keep reliving the trauma in my head. i keep reliving the trauma in my head. i keep reliving the trauma in my head. i keep reliving the trauma in my head. i keep re"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I push people away to protect myself. i push people away to protect myself. i push people away to protect myself. i push people away to protect myself. i push people away to protect myself. i push them away to protect myself. i push them away to protect myself. i push them away to protect myself. i push them away to protect myself. i push them away to protect myself. i push them away to protect myself. i push them away to protect myself. i push them away to"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I push people away to protect myself. i push them away to protect myself. i push them away to protect myself. i push them away to protect myself. i push them away to protect myself. i push them away to protect myself. i push them away to protect myself. i push them away to protect myself. i push them away to protect myself. i push them away to protect myself. i push them away to protect myself. i push them away to protect myself. i push them away to"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I cant remember parts of the event and that scares me."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I can't remember parts of the event and that scares me."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I feel like i don't deserve to be happy."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I feel like i dont deserve to be happy."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I wish I could forget everything."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I wish i could forget everything."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I hate when people say just move on. I hate when people say just move on. i hate when people say just move on. i hate when people say just move on. i hate when people say just move on. i hate when people say just move on. i hate when people say just move on. i hate when people say just move on. i hate when people say just move on. i hate when people say just move on. i hate when people say just move on. i hate when people"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I hate when people say just move on. I hate when people say just move on. I hate when people say just move on. I hate when people say just move on. I hate when people say just move on. I hate when people say just move on. I hate when people say just move on. I hate when people say just move on. I hate when people say just move on. I hate when people say just move on. I hate when people say just move on. I hate when people say just move on. I hate when people say"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "How can I lose track of time?"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "Why do I lose track of time?"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I am always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always brac"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I'm always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bracing for the worst. Im always bra"
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I feel broken in ways no one can see."
+  },
+  {
+    "condition": "PTSD",
+    "section": "User Descriptions",
+    "text": "I feel broken in ways that no one can see."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "condition": "ADHD",
+    "source": "https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd",
+    "section": "Overview",
+    "text1": "Attention‑deficit/hyperactivity disorder (ADHD) is a chronic neurodevelopmental disorder characterized by patterns of inattention and/or hyperactivity-impulsivity.",
+    "text2": "It typically begins in childhood and often persists into adulthood, affecting both academic and occupational functioning.",
+    "text3": "Individuals with ADHD may experience difficulties with time management, staying organized, and maintaining focus on tasks.",
+    "text4": "The condition is not a result of poor parenting or lack of discipline, but is instead rooted in brain structure and function differences.",
+    "text5": "ADHD can significantly impact social relationships and self-esteem if left unmanaged."
+  },
+  {
+    "condition": "ADHD",
+    "source": "https://www.nimh.nih.gov/health/statistics/attention-deficit-hyperactivity-disorder-adhd",
+    "section": "Symptoms",
+    "text1": "ADHD symptoms fall into two broad categories: inattention and hyperactivity-impulsivity.",
+    "text2": "Inattention symptoms include frequent daydreaming, careless mistakes, difficulty listening, and trouble organizing tasks.",
+    "text3": "Hyperactivity symptoms may involve constant motion, restlessness, fidgeting, and difficulty remaining seated.",
+    "text4": "Impulsivity can manifest as interrupting others, blurting out answers, or difficulty waiting one’s turn.",
+    "text5": "Symptoms must be persistent, appear before age 12, and impair functioning in more than one setting (e.g., school and home)."
+  },
+  {
+    "condition": "ADHD",
+    "source": "https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know",
+    "section": "Diagnosis",
+    "text1": "ADHD is diagnosed through comprehensive clinical evaluation, including behavioral observations and standardized rating scales.",
+    "text2": "Symptoms must be present for at least six months and be inappropriate for the individual’s developmental level.",
+    "text3": "In adults, a diagnosis requires at least five symptoms of inattention or hyperactivity-impulsivity that began before age 12.",
+    "text4": "Information is usually collected from multiple sources such as parents, teachers, or partners.",
+    "text5": "Clinicians must also rule out other conditions that could explain the symptoms, like anxiety, learning disabilities, or mood disorders."
+  },
+  {
+    "condition": "ADHD",
+    "source": "https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know",
+    "section": "Treatment Options",
+    "text1": "ADHD treatment often combines medication, behavioral therapies, and educational interventions.",
+    "text2": "Stimulant medications like methylphenidate and amphetamines are first-line treatments and can improve focus and impulse control.",
+    "text3": "Non-stimulant medications such as atomoxetine may be used when stimulants cause side effects or are ineffective.",
+    "text4": "Behavioral therapy can include parent training, social skills training, and cognitive behavioral therapy (CBT).",
+    "text5": "Other supports may include classroom accommodations, organizational coaching, and lifestyle changes like exercise and sleep routines."
+  },
+  {
+    "condition": "ADHD",
+    "source": "https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know",
+    "section": "When to Seek Help",
+    "text1": "Seek help if symptoms interfere with daily activities, academic performance, or relationships.",
+    "text2": "Indicators include frequent missed deadlines, trouble following instructions, and impulsive behavior that leads to conflicts.",
+    "text3": "Consult a healthcare provider or mental health professional for an accurate diagnosis and individualized treatment plan.",
+    "text4": "Early intervention can significantly improve long-term outcomes and help individuals reach their full potential.",
+    "text5": "Support from family, teachers, and counselors plays a crucial role in managing ADHD effectively."
+  }
+]

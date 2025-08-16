@@ -1,0 +1,822 @@
+[
+  {
+    "condition": "Depression",
+    "source": "https://www.nimh.nih.gov/health/topics/depression",
+    "section": "Overview",
+    "text1": "Depression is a common but serious mood disorder that affects how a person feels, thinks, and handles daily activities.",
+    "text2": "It can lead to a variety of emotional and physical problems and can decrease a person's ability to function at work and at home.",
+    "text3": "Unlike occasional sadness, depression is persistent and may require long-term treatment.",
+    "text4": "Depression can occur at any age but often begins in adulthood.",
+    "text5": "It is more than just a bout of the blues—it's a persistent issue that requires professional attention."
+  },
+  {
+    "condition": "Depression",
+    "source": "https://www.nimh.nih.gov/health/publications/depression",
+    "section": "Symptoms",
+    "text1": "Persistent sad, anxious, or “empty” mood is a core symptom of depression.",
+    "text2": "Loss of interest or pleasure in hobbies and activities once enjoyed is common.",
+    "text3": "Other symptoms include appetite changes, insomnia or oversleeping, and low energy or fatigue.",
+    "text4": "People may also experience feelings of hopelessness, worthlessness, or guilt.",
+    "text5": "Thoughts of death or suicide can occur in severe cases and should be taken seriously."
+  },
+  {
+    "condition": "Depression",
+    "source": "https://www.nimh.nih.gov/health/publications/depression",
+    "section": "Types",
+    "text1": "Major depressive disorder involves symptoms that interfere with daily life and last at least two weeks.",
+    "text2": "Persistent depressive disorder, or dysthymia, is a long-term form of depression lasting two years or more.",
+    "text3": "Postpartum depression is a serious condition experienced after childbirth and requires clinical support.",
+    "text4": "Seasonal affective disorder occurs during specific times of the year, usually winter, due to lack of sunlight.",
+    "text5": "Bipolar disorder includes depressive episodes that alternate with periods of mania or hypomania."
+  },
+  {
+    "condition": "Depression",
+    "source": "https://www.nimh.nih.gov/health/publications/chronic-illness-mental-health",
+    "section": "Causes",
+    "text1": "Depression is caused by a complex combination of genetic, biological, environmental, and psychological factors.",
+    "text2": "Imbalances in brain chemicals such as serotonin and dopamine play a role in depression.",
+    "text3": "Traumatic events like abuse, loss of a loved one, or chronic stress can trigger depression.",
+    "text4": "A family history of depression increases the risk of developing the condition.",
+    "text5": "Chronic medical conditions such as diabetes or heart disease can contribute to depression."
+  },
+  {
+    "condition": "Depression",
+    "source": "https://www.nimh.nih.gov/health/publications/depression",
+    "section": "Treatment Options",
+    "text1": "Antidepressant medications help adjust brain chemicals linked to mood regulation.",
+    "text2": "Psychotherapy, including cognitive behavioral therapy (CBT), is effective in treating depression.",
+    "text3": "A combination of medication and therapy often yields the best outcomes.",
+    "text4": "For severe depression that doesn’t respond to other treatments, electroconvulsive therapy (ECT) may be considered.",
+    "text5": "Regular follow-ups with healthcare providers are essential to monitor progress and adjust treatments."
+  },
+  {
+    "condition": "Depression",
+    "source": "https://www.nimh.nih.gov/health/publications/depression",
+    "section": "Coping Tips",
+    "text1": "Maintain a consistent daily routine to support mental stability.",
+    "text2": "Engage in regular physical activity to boost mood and reduce stress.",
+    "text3": "Connect with supportive friends or family members.",
+    "text4": "Practice relaxation techniques like meditation or deep breathing.",
+    "text5": "Avoid alcohol and drugs, which can worsen depression symptoms."
+  },
+  {
+    "condition": "Depression",
+    "source": "https://www.nimh.nih.gov/health/publications/depression",
+    "section": "When to Seek Help",
+    "text1": "Seek help if feelings of sadness last more than two weeks or interfere with daily life.",
+    "text2": "Professional help is essential if you experience suicidal thoughts or self-harm urges.",
+    "text3": "Contact a healthcare provider if you notice mood changes impacting work or relationships.",
+    "text4": "Therapy or counseling can be beneficial even for mild symptoms of depression.",
+    "text5": "Early intervention improves treatment outcomes and quality of life."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i dont feel excited about anything anymore"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "getting out of bed feels like a chore lately"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "ive stopped enjoying the things i used to love"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i feel numb most of the day"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "even the smallest tasks feel overwhelming now"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i feel like im just going through the motions"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i dont see the point in trying anymore"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i sleep too much but still feel exhausted"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i feel like a burden to everyone around me"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "my appetite has completely changed for no reason"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i avoid people because i dont want to bring them down"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i cry without really knowing why"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i feel like im stuck in a dark place i cant get out of"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "nothing feels real or meaningful anymore"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i feel disconnected from everyone and everything"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i cant remember the last time i felt happy"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i pretend to be okay even though im not"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i feel guilty for not being strong enough to feel better"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i stare at the wall for hours without realizing it"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i feel like im failing at life"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i laugh in front of others but feel empty inside"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "its hard to believe things will ever get better"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i feel like im invisible to the world"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "ive lost all motivation to do anything"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i keep pushing people away even though i want them close"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i constantly feel like im letting people down"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i dont care about the future anymore"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i feel hollow like something is missing inside me"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "im tired all the time even after a full nights sleep"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i dont feel like i deserve kindness or love"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "everything feels too loud too much too heavy"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i havent felt like myself in weeks"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i dread waking up each morning"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i cancel plans because i cant find the energy to go"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i feel like im fading into the background"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i miss the version of me that used to be happy"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i feel trapped in my own head"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i dont have the energy to fake being okay anymore"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i feel like my life is on pause and i cant hit play"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i hate how much i hate myself"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i scroll endlessly to distract myself from how i feel"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i feel like nothing i do matters in the end"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i stare at my ceiling every night feeling completely empty"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i keep hoping tomorrow ill feel better but i never do"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i feel like im carrying a weight no one else can see"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "im losing interest in talking to anyone"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i wish i could just disappear for a while"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "it feels like im stuck in slow motion"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i cant even recognize myself anymore"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "sometimes i just lie there thinking whats the point"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I don't feel excited about anything anymore."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "Why do I feel so excited about anything anymore?"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "How do I get out of bed?"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "How do I get out of bed without feeling like a chore?"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I have stopped loving the things that I used to love."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I've stopped loving the things I used to love."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel numb most of the day."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel numb most of the day. what should I do?"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "Even the smallest tasks feel overwhelming now."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "Even the smallest tasks feel overwhelming now, even the smallest tasks feel overwhelming now, even the smallest tasks feel overwhelming now, even the smallest tasks feel overwhelming now, even the smallest tasks feel overwhelming now, even the smallest tasks feel overwhelming now, even the smallest tasks feel overwhelming now, even the smallest tasks feel overwhelming now, even the smallest tasks feel overwhelming now, even the smallest tasks feel overwhelming now, even the smallest tasks feel overwhelming now, even the smallest tasks feel overwhelming now, even the smallest tasks"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "i feel like im just going through the motions. i feel like im just going through the motions. i feel like im just going through the motions. i feel like im just going through the motions. i feel like im just going through the motions. i feel like im just going through the motions. i feel like im just going through the motions. i feel like im just going through the motions. i feel like im just going through the motions. i feel like im"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like im going through the motions. i feel like im just going through the motions. i feel like im just going through the motions. i feel like im just going through the motions. i feel like im just going through the motions. i feel like im just going through the motions. i feel like im just going through the motions. i feel like im just going through the motions. i feel like im just going through the motions. i feel like im just going"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "What is the point of trying anymore?"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "Is there any point in trying anymore?"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I sleep too much but still feel exhausted."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I sleep too much and still feel exhausted."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like a burden to everyone around me."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like a burden to everyone around me. I feel like a burden to everyone around me."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "My appetite has changed for no reason. I can't eat anymore."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "My appetite has completely changed for no reason. I can't eat anymore."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I avoid people because i dont want to bring them down. i avoid people because i dont want to bring them down. i avoid people because i dont want to bring them down. i avoid people because i dont want to bring them down. i avoid people because i dont want to bring them down. i avoid people because i dont want to bring them down. i avoid people because i dont want to bring them down. i avoid people because i dont want to bring them down. i"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I avoid people because i dont want to bring them down. i avoid people because i don't want to bring them down. i avoid people because i dont want to bring them down. i avoid people because i dont want to bring them down. i avoid people because i dont want to bring them down. i avoid people because i dont want to bring them down. i avoid people because i dont want to bring them down. i avoid people because i dont want to bring them down."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "Why do I cry so much without knowing why?"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "Why do I cry so much without knowing?"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like im stuck in a dark place i can't get out of."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like im stuck in a dark place i cant get out of."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "Nothing feels real or meaningful anymore."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "Nothing feels real anymore."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel disconnected from everyone and everything."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel disconnected from everyone and everything. I feel disconnected from everything."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "When was the last time you felt happy?"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I can't remember the last time I felt happy."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I pretend to be okay even though im not."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I pretend to be okay even though im not sure what to do."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel guilty for not being strong enough to feel better."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel guilty for not being strong enough to feel better. I feel guilty for not being strong enough to feel better."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I stare at the wall for hours without realizing it."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I stare at a wall for hours without realizing it."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like I'm failing at life."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like I am failing at life."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I laugh in front of others but feel empty inside."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I laugh in front of people but feel empty inside."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "Is it possible that things will ever get better?"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "Is it possible that things will never get better?"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like im invisible to the world."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel invisible to the world."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I have lost my motivation to do anything. I can't do anything."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I've lost my motivation to do anything. I can't do anything."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I keep pushing people away even though i want them close. i keep pushing them away even though i want them close. i keep pushing them away even though i want them close. i keep pushing them away even though i want them close. i keep pushing them away even though i want them close. i keep pushing them away even though i want them close. i keep pushing them away even though i want them close. i keep pushing them away even though i want them close. i"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I keep pushing people away even though i want them close. i keep pushing people away even though i want them close. i keep pushing them away even though i want them close. i keep pushing them away even though i want them close. i keep pushing them away even though i want them close. i keep pushing them away even though i want them close. i keep pushing them away even though i want them close. i keep pushing them away even though i want them close. i"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like i'm letting people down."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like i'm letting people down. I feel like i'm letting them down."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I don't care about the future anymore. I don't care about the future. I don't care about the future. I don't care about the future. I don't care about the future. I don't care about the future. I don't care about the future. I don't care about the future anymore. I don't care about the future. I don't care about the future. I don't care about the future. I don't care about the future. I don'"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I don't care about the future anymore. I don't care about the future. I don't care about the future. I don't care about the future. I don't care about the future. I don't care about the future. I don't care about the future. I don't care about the future anymore. I don't care about the future. I don't care about the future. I don't care about the future. I don't care about the future anymore."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel hollow inside me. Something is missing inside me."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel hollow inside me, like something is missing inside me."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I'm tired all the time even after a full night's sleep."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I'm tired all the time even after a good night's sleep."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I don't feel like I deserve kindness or love."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I don't feel like I deserve kindness or love. I feel like I deserve it."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "Everything feels too loud too much too heavy."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "Everything feels too loud too heavy too heavy."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I haven't felt like myself in weeks."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I haven't felt like myself in weeks. I haven't felt like myself in weeks."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "Why do I dread waking up every morning?"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "Why do I dread waking up in the morning?"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I can't find the energy to go on a trip because I can't find the energy to go on a trip. I can't go on a trip. I can't go on a trip. I can't go on a trip. I can't go on a trip. I can't go on a trip. I can't go on a trip. I can't go on a trip. I can't go on a trip. I can't go"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I can't find the energy to go on a trip because I can't find the energy to go on a trip. I can't go on a trip. I can't go on a trip. I can't go on a trip. I can't go on a trip. I can't go on a trip. I can't go on a trip. I can't find the energy to go on a trip. I can't go on a trip. I"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like im fading into the background."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like I'm fading into the background."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I miss the version of me that used to be happy."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I miss the version of myself that used to be happy."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel trapped in my own head."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "Why do I feel trapped in my own head?"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I don't have the energy to fake being okay anymore. I don't have the energy to fake being okay anymore."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I don't have the energy to fake being okay anymore. i dont have the energy to fake being okay anymore."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like my life is on pause and i cant hit play."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like my life is on pause and i can't hit play."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I hate how much I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I hate how much I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself. I hate myself."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I scroll endlessly to distract myself from how i feel."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I scroll endlessly to distract myself from how I feel."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like nothing matters in the end. i feel like nothing i do matters in the end. i feel like nothing i do matters in the end. i feel like nothing i do matters in the end. i feel like nothing i do matters in the end. i feel like nothing i do matters in the end. i feel like nothing i do matters in the end. i feel like nothing i do matters in the end. i feel like nothing i do matters in the end."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like nothing matters in the end. i feel like nothing i do matters in the end. i feel like nothing i do matters in the end. i feel like nothing i do matters in the end. i feel like nothing i do matters in the end. i feel like nothing i do matters in the end. i feel like nothing i do matters in the end. i feel like nothing i do matters in the end. i feel like nothing matters in the end. i feel"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I stare at my ceiling every night feeling completely empty."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I stare at the ceiling every night feeling completely empty."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I keep hoping tomorrow ill feel better but i never do."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I keep hoping tomorrow I will feel better but i never do."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like I'm carrying a weight that no one else can see."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like i'm carrying a weight that no one else can see."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I'm losing interest in talking to anyone."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I'm losing interest in talking to anyone. I can't talk to anyone."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I wish i could just disappear for a while. i wish i could disappear for a while. i wish i could just disappear for a while. i wish i could just disappear for a while. i wish i could just disappear for a while. i wish i could just disappear for a while. i wish i could just disappear for a while. i wish i could just disappear for a while. i wish i could just disappear for a"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I wish i could disappear for a while. i wish i could just disappear for a while. i wish i could just disappear for a while. i wish i could just disappear for a while. i wish i could just disappear for a while. i wish i could just disappear for a while. i wish i could just disappear for a while. i wish i could just disappear for a while. i wish i could just disappear for a"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like I'm stuck in slow motion."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I feel like I am stuck in slow motion."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I can't even recognize myself anymore."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "I can't recognize myself anymore."
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "What's the point of lying there?"
+  },
+  {
+    "condition": "Depression",
+    "section": "User Descriptions",
+    "text": "What's the point of lying?"
+  }
+]

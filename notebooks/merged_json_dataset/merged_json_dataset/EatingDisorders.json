@@ -1,0 +1,812 @@
+[
+  {
+    "condition": "Eating Disorders",
+    "source": "https://www.nimh.nih.gov/health/publications/eating-disorders",
+    "section": "Overview",
+    "text1": "Eating disorders are serious mental health conditions characterized by severe disruptions in eating behavior, thoughts, and emotions.",
+    "text2": "Individuals with eating disorders often become preoccupied with food, body weight, or shape, which can dominate their daily lives.",
+    "text3": "Common types of eating disorders include anorexia nervosa, bulimia nervosa, binge-eating disorder, and ARFID.",
+    "text4": "These disorders can affect anyone regardless of age, gender, or background, although they often begin during adolescence.",
+    "text5": "Without treatment, eating disorders can lead to severe health complications and even become life-threatening."
+  },
+  {
+    "condition": "Eating Disorders",
+    "source": "https://www.nimh.nih.gov/health/statistics/eating-disorders",
+    "section": "Symptoms",
+    "text1": "Binge-eating disorder involves episodes of eating large amounts of food quickly, often with a feeling of loss of control.",
+    "text2": "People with bulimia nervosa alternate binge-eating with purging behaviors like vomiting or excessive exercise.",
+    "text3": "Anorexia nervosa is marked by extreme restriction of food, intense fear of gaining weight, and a distorted body image.",
+    "text4": "Symptoms are not always visible—individuals can be underweight, average weight, or overweight and still struggle with an eating disorder.",
+    "text5": "Emotional symptoms may include guilt, shame, or anxiety related to food, weight, and eating habits."
+  },
+  {
+    "condition": "Eating Disorders",
+    "source": "https://www.nimh.nih.gov/health/statistics/eating-disorders",
+    "section": "Causes",
+    "text1": "Eating disorders often occur alongside other mental health conditions like anxiety, depression, or substance use disorders.",
+    "text2": "Genetic, biological, behavioral, psychological, and social factors can all contribute to the development of eating disorders.",
+    "text3": "Societal pressure to conform to unrealistic body ideals can be a significant trigger for at-risk individuals.",
+    "text4": "Family dynamics, trauma, and stress can also play roles in the onset of disordered eating patterns.",
+    "text5": "Lack of early intervention can lead to a worsening cycle of emotional distress and disordered eating."
+  },
+  {
+    "condition": "Eating Disorders",
+    "source": "https://www.nimh.nih.gov/health/publications/eating-disorders",
+    "section": "Treatment Options",
+    "text1": "Effective treatment often includes a combination of psychotherapy, medical care, and nutrition counseling.",
+    "text2": "Cognitive behavioral therapy (CBT) is commonly used to help patients recognize and change disordered thoughts and behaviors.",
+    "text3": "In severe cases, hospitalization may be necessary to address malnutrition or medical instability.",
+    "text4": "Medication may be used to treat co-occurring issues like anxiety or depression, though it’s not a standalone solution.",
+    "text5": "Family-based therapy can be particularly effective for adolescents with eating disorders."
+  },
+  {
+    "condition": "Eating Disorders",
+    "source": "https://www.nimh.nih.gov/health/publications/eating-disorders",
+    "section": "Coping Tips",
+    "text1": "Building a supportive network of friends and family can greatly aid in recovery.",
+    "text2": "Avoiding negative body talk and focusing on non-appearance-related achievements helps build self-esteem.",
+    "text3": "Setting small, manageable goals can make progress feel more achievable during recovery.",
+    "text4": "Mindfulness practices like meditation and journaling can reduce anxiety around food and body image.",
+    "text5": "Staying connected with treatment providers and attending support groups can reinforce recovery progress."
+  },
+  {
+    "condition": "Eating Disorders",
+    "source": "https://www.nimh.nih.gov/health/publications/eating-disorders",
+    "section": "When to Seek Help",
+    "text1": "Seek professional help if eating habits are interfering with daily life, health, or emotional well-being.",
+    "text2": "If you notice signs in a loved one, like food rituals or withdrawal from social meals, encourage them to talk to a provider.",
+    "text3": "Persistent guilt, shame, or anxiety after eating can be signs it’s time to seek help.",
+    "text4": "The earlier treatment begins, the better the outcomes—don’t wait for a crisis.",
+    "text5": "Mental health professionals, primary care doctors, and dietitians can all be part of an effective care team."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i skipped lunch again todayi just wasnt hungry"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i feel so guilty whenever i eat something with sugar"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "sometimes i make myself throw up after big meals"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i weigh myself five times a day"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i dont eat in front of others anymore"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "ive memorized the calorie counts of everything i eat"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "even when im starving i force myself to wait longer"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i avoid social gatherings where food is involved"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i cant stop thinking about food all day long"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i skipped lunch again todayi just wasnt hungry"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i chew food and spit it out without swallowing"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "looking at myself in the mirror makes me angry"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i feel worthless after overeating"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "ive stopped getting my period and i know its from not eating"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i feel fat even when people tell me im too thin"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i plan my meals days in advance to avoid anxiety"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i sneak food at night and hide the wrappers"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i panic if i miss my workout after a meal"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "food is either good or bad to metheres no in between"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i lie to my family about what i eat"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "ive fainted a few times because i skipped meals"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i sometimes binge until i feel sick"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i avoid carbs like theyre poison"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i feel more in control when im hungry"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i drink excessive water to feel full"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i often purge in secret after eating"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "my relationship with food feels like a war"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "ive used laxatives to lose weight quickly"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i envy people who can eat without guilt"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i count almonds to control my portion"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i think about food more than anything else"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i get anxious if someone serves me more than i expected"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "my day feels ruined if i eat something unplanned"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i cancel plans if i overeat earlier in the day"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i often skip meals as punishment"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i stare at others eating and feel jealous"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i sometimes cry after eating something i shouldnt"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i scroll through diet tips for hours every night"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i use clothing size to determine if i had a good week"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i feel more confident when im hungry"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i think being thin will solve all my problems"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i worry people are judging me if i eat too much"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i refuse to eat what i didnt cook myself"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i feel a sense of failure after every meal"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i sometimes hide food in my room"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i follow fitness influencers obsessively"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i celebrate weight loss more than any achievement"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i hate how i look even when i lose weight"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i fear gaining even a single pound"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i wish i could just eat like a normal person"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I skipped lunch again today. I just wasnt hungry."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I skipped lunch again today i just wasnt hungry."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I feel guilty whenever I eat something with sugar."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I feel guilty every time I eat something with sugar."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Sometimes I make myself throw up after a big meal."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Sometimes I make myself throw up after big meals."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I weigh myself five times a day."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I weigh myself 5 times a day."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Why don't I eat in front of others anymore?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I don't eat in front of others anymore."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I have memorized the calorie count of everything I eat. I can't remember what I ate. I can't remember what I ate. I can't remember what I ate. I can't remember what I ate. I can't remember what I ate. I can't remember what I ate. I can't remember what I ate. I can't remember what I ate. I can't remember what I ate. I can't remember what I"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I have memorized the calorie count of everything I eat. I can't remember what I ate. I can't remember what I ate. I can't remember what I ate. I can't remember what I ate. I can't remember what I ate. I can't remember what I ate. I can't remember what I ate. I can't remember what I ate. I can't remember what I ate."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Even when im starving i force myself to wait longer."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Even when I am starving i force myself to wait longer."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I avoid social gatherings where food is involved."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "i avoid social gatherings where food is involved."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I can't stop thinking about food all day long. I can't stop thinking about food all day long. I can't stop thinking about food all day long. I can't stop thinking about food all day long. I can't stop thinking about food all day long. I can't stop thinking about food all day long. I can't stop thinking about food all day long. I can't stop thinking about food all day long. I can't stop thinking about food all day long."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I can't stop thinking about food all day long. I can't stop thinking about food all day long. I can't stop thinking about food all day long. I can't stop thinking about food all day long. I can't stop thinking about food all day long. I can't stop thinking about food all day long. I can't stop thinking about food all day long. I can't stop thinking about food all day long."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I skipped lunch again today. I just wasnt hungry."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I skipped lunch again today i just wasnt hungry."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Can you chew food and spit it out without swallowing it?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Can you chew food and spit it out without swallowing?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Looking at myself in the mirror makes me angry."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Why do I get angry when I look at myself in the mirror?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Why do I feel worthless after overeating?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Why do I feel worthless after over eating?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I've stopped getting my period and i know its because I'm not eating. I can't get my period back."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Why am I not getting my period?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I feel fat even when people tell me I'm too thin."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I feel fat even when people tell me that I'm too thin."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "How do I plan my meals days in advance to avoid anxiety?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "How do I avoid eating out days in advance?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I sneak food at night and hide the wrappers. i can't see the food. i can't see the food. i can't see the food. i can't see the food. i can't see the food. i can't see the food. i can't see the food. i can't see the food. i can't see the food. i can't see the food. i can't see the food. i can"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I sneak food at night and hide the wrappers. i can't see it. i can't see it. i can't see it. i can't see it. i can't see it. i can't see it. i can't see it. i can't see it. i can't see it. i can't see it. i can't see it. i can't see it. i can't see"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Is it normal to miss a workout after a meal?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I panic if I miss my workout after a meal. What should I do?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Food is either good or bad to metheres no in between."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Food is either good or bad to metheres no in between between."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Why do I lie to my family about what I eat?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I lie to my family about what I eat."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I've fainted a few times because I skipped meals."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I've fainted a few times because i skipped meals."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I sometimes binge until i feel sick."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I sometimes binge until i feel sick. I can't stop binging."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "How can I avoid carbs like theyre poisonous?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "How can I avoid carbs like they are poisonous?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I feel more in control when im hungry."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I feel more in control when I am hungry."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "How do I drink enough water to feel full?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "How do I feel full when I drink too much water?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I often purge in secret after eating. i often purge in secret after eating. i often purge in secret after eating. i often purge in secret after eating. i often purge in secret after eating. i often purge in secret after eating. i often purge in secret after eating. i often purge in secret after eating. i often purge in secret after eating. i often purge in secret after eating. i often purge in secret after eating. i often pur"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I often purge in secret after eating. i often purge in secret after eating. i often purge in secret after eating. i often purge in secret after eating. i often purge in secret after eating. i often purge in secret after eating. i often purge in secret after eating. i often purge in secret after eating. i often purge in secret after eating. i often purge in secret after eating. i often purge in secret after eating."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "My relationship with food feels like a war."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "My relationship with food is like a war."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "How can I use laxatives to lose weight quickly?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "How can I use laxatives to lose weight fast?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I envy people who can eat without guilt."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I envy people who eat without guilt."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Is it healthy to eat almonds?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "How do I count almonds to control my portion size?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I think about food more than anything else. i think about food more than anything else. i think about food more than anything else. i think about food more than anything else. i think about food more than anything else. i think about food more than anything else. i think about food more than anything else. i think about food more than anything else. i think about food more than anything else. i think about food more than anything else."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I think about food more than anything else. i think about food more than anything else. i think about food more than anything else. i think about food more than anything else. i think about food more than anything else. i think about food more than anything else. i think about food more than anything else. i think about food more than anything else. i think about food more than anything else. i think about food more than anything else. i think about food more than anything else."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I get anxious if someone serves me more than I expected."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I get anxious when someone serves me more than I expected."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "My day feels ruined if I eat something unplanned."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "My day feels ruined if i eat something unplanned."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Can I cancel a plan if I overeat earlier in the day?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Can I cancel my plan if I overeat earlier in the day?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment. i often skip meals as punishment."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I stare at others eating and feel jealous."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I stare at other people eating and feel jealous."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I sometimes cry after eating something i shouldnt."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I sometimes cry after eating something i shouldn't."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I scroll through diet tips for hours every night. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I scroll through diet tips for hours every night. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading. i can't stop reading."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "How do I know if I had a good week or not?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I used my clothing size to determine if I had a good week."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I feel more confident when I'm hungry."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I feel more confident when I am hungry."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I think being thin will solve all my problems."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I think being thin will solve all my problems. I think being thin will solve all my problems."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I worry people will judge me if I eat too much."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I worry that people will judge me if I eat too much."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I refuse to eat what I didn't cook myself."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I refuse to eat anything I didn't cook myself."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I feel a sense of failure after every meal."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I feel a sense of failure after every meal. I feel a sense of failure after every meal."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "How do I hide food in my room?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "Why do I hide food in my room?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I follow fitness influencers obsessively. i like them. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I follow fitness influencers obsessively. i like them. i like them. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too. i like them too."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I celebrate weight loss more than any other achievement."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I celebrate weight loss more than any achievement."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I hate how I look even when I lose weight."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I hate how I look even when I lose weight. What should I do?"
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I fear gaining even a single pound. I fear gaining even a single pound."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I fear gaining even a single pound. i fear gaining even a single pound."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I wish I could eat like a normal person."
+  },
+  {
+    "condition": "EatingDisorders",
+    "section": "User Descriptions",
+    "text": "I wish i could eat like a normal person."
+  }
+]

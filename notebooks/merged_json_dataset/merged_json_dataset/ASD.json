@@ -1,0 +1,812 @@
+[
+  {
+    "condition": "Autism Spectrum Disorder",
+    "source": "https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd",
+    "section": "Overview",
+    "text1": "Autism spectrum disorder (ASD) is a neurological and developmental condition that impacts how people interact with others, communicate, learn, and behave.",
+    "text2": "ASD typically appears in the first two years of life and affects individuals across all racial, ethnic, and socioeconomic groups.",
+    "text3": "It is called a 'spectrum' disorder because there is wide variation in the type and severity of symptoms people experience.",
+    "text4": "Some individuals with ASD may have significant challenges and require substantial support, while others may be highly independent.",
+    "text5": "Although ASD is a lifelong condition, early diagnosis and intervention can lead to improved outcomes over time."
+  },
+  {
+    "condition": "Autism Spectrum Disorder",
+    "source": "https://www.nimh.nih.gov/health/statistics/autism-spectrum-disorder-asd",
+    "section": "Symptoms",
+    "text1": "Common symptoms include challenges in social communication and interaction across multiple contexts.",
+    "text2": "Individuals may have difficulty understanding social cues, maintaining eye contact, or engaging in typical conversation.",
+    "text3": "They may show repetitive movements or speech, strict routines, or highly focused interests.",
+    "text4": "Sensory sensitivities are also common, including overreaction or underreaction to lights, sounds, or textures.",
+    "text5": "These symptoms can interfere with social, academic, or occupational functioning, depending on their severity."
+  },
+  {
+    "condition": "Autism Spectrum Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder",
+    "section": "Causes",
+    "text1": "ASD arises from a complex interplay of genetic and environmental influences.",
+    "text2": "Multiple genes have been linked to autism, and mutations or disruptions in brain development may contribute.",
+    "text3": "Environmental factors—such as parental age, pregnancy complications, or exposure to toxins—may increase risk.",
+    "text4": "Research shows shared molecular pathways between ASD and other neurological conditions like ADHD or epilepsy.",
+    "text5": "ASD is **not** caused by vaccines; this misconception has been scientifically disproven."
+  },
+  {
+    "condition": "Autism Spectrum Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder",
+    "section": "Diagnosis",
+    "text1": "Diagnosis of ASD involves evaluating developmental history, behavior, and social functioning.",
+    "text2": "Pediatricians may conduct initial screenings during routine checkups using standardized tools.",
+    "text3": "If concerns are noted, a comprehensive evaluation by specialists such as psychologists or developmental pediatricians is recommended.",
+    "text4": "Criteria from the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) are used for formal diagnosis.",
+    "text5": "ASD can be diagnosed as early as 18 to 24 months, and early identification is key to effective intervention."
+  },
+  {
+    "condition": "Autism Spectrum Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder",
+    "section": "Treatment Options",
+    "text1": "There is no one-size-fits-all treatment for ASD; interventions are tailored to individual strengths and needs.",
+    "text2": "Behavioral therapies, especially Applied Behavior Analysis (ABA), are widely used and evidence-based.",
+    "text3": "Speech therapy, occupational therapy, and social skills training can support communication and independence.",
+    "text4": "Some individuals may benefit from medications that address related symptoms like anxiety, irritability, or attention issues.",
+    "text5": "Family education and involvement in treatment planning significantly enhance progress and outcomes."
+  },
+  {
+    "condition": "Autism Spectrum Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder",
+    "section": "When to Seek Help",
+    "text1": "Parents should consult a health professional if they notice delays in speech, social smiling, eye contact, or play behavior.",
+    "text2": "Warning signs may include limited verbal communication, lack of response to name, or repetitive movements.",
+    "text3": "Early screening tools are available and can be administered by pediatricians during well-child visits.",
+    "text4": "The earlier a child is evaluated and receives services, the better the long-term developmental outcomes.",
+    "text5": "Support is also available for adolescents and adults diagnosed later in life; seeking help at any age is beneficial."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i hate when people suddenly change plans on meit really throws me off"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i dont always understand sarcasm or jokes"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "too many noises at once make my brain feel scrambled"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i avoid eye contact without even realizing it"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "group conversations are exhaustingi cant keep up"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i memorize scripts for social interactions"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "bright lights make me super uncomfortable"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i get obsessed with one topic for weeks or months"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "its hard to tell what someone is really feeling from their face"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i stim by tapping my fingers or rocking back and forth"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i dont like it when someone touches me unexpectedly"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "id rather stick to the same routine every day"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i talk a lot about things i love and forget to ask questions"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i find loud cafeterias or classrooms overwhelming"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i sometimes mimic other peoples speech patterns"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i struggle to filter out background noise"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i take things very literallyit confuses me when people dont mean what they say"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "transitions between tasks are really difficult for me"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i often feel like im watching a conversation instead of being in it"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i zone out in social settings but dont mean to be rude"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i practice facial expressions in front of a mirror"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "crowded places make me shut down mentally"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i get really interested in patterns or numbers"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i avoid phone callstheyre too unpredictable"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "people often say i speak in a robotic way"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i prefer texting because i have time to think"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i can spend hours focusing on one specific hobby"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i have trouble reading between the lines in conversations"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "when im overwhelmed i need to be alone to recover"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "ive been told i dont show emotion the normal way"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i get anxious when my routine is disrupted"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "im very sensitive to certain fabrics or textures"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "sometimes i flap my hands or tap objects repeatedly"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i analyze conversations afterward wondering what went wrong"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i dont like unstructured social events"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "people say i talk at them instead of with them"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i often rehearse conversations in my head before they happen"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i feel safer when things follow a predictable order"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "ive been called blunt but i never mean to hurt anyone"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "my interests are very specific but i love diving deep into them"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i need advance notice for changesi hate surprises"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i notice tiny details others seem to miss"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "my face doesnt always match how i feel inside"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "sometimes i repeat words or phrases under my breath"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i dont understand small talkit feels pointless"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i struggle with facial recognition even for familiar people"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i get very attached to certain objects or routines"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i need to mentally prepare for social interactions"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i enjoy solitude more than being with people"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "ive always felt different like im on a different wavelength"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I hate when people suddenly change plans on meit really throws me off."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I hate when people suddenly change their plans on meit really throws me off."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I don't always understand sarcasm or jokes."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I don't always understand sarcasm or jokes. i don't always understand sarcasm or jokes."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "Too many noises at once make my brain feel scrambled."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "Too many sounds at once make my brain feel scrambled."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "How do I avoid eye contact without realizing it?"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "How can I avoid eye contact without realizing it?"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I can't keep up with group conversations. They are exhausting."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "How do I keep up with group conversations?"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I memorize scripts for social interaction. i memorize scripts for social interaction. i memorize scripts for social interaction. i memorize scripts for social interaction. i memorize scripts for social interaction. i memorize scripts for social interaction. i memorize scripts for social interaction. i memorize scripts for social interaction. i memorize scripts for social interaction. i memorize scripts for social interaction. i memorize scripts for social interaction. i memorize"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I memorize scripts for social interactions. i memorize them. i memorize them. i memorize them. i memorize them. i memorize them. i memorize them. i memorize them. i memorize them. i memorize them. i memorize them. i memorize them. i memorize them. i memorize them. i memorize them. i memorize them. i memorize them. i memorize them. i"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "Bright lights make me super uncomfortable."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "Why do bright lights make me uncomfortable?"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I get obsessed with one topic for weeks or months."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I get obsessed with one topic for weeks or months. I can't stop thinking about it."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "How do you tell what someone is feeling from their face?"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "How can you tell what someone is feeling from their face?"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I stim by tapping my fingers or rocking back and forth. i stim by tapping my fingers or rocking back and forth. i stim by tapping my fingers or rocking back and forth. i stim by tapping my fingers or rocking back and forth. i stim by tapping my fingers or rocking back and forth. i stim by tapping my fingers or rocking back and forth. i stim by tapping my fingers or rocking back and forth. i"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i stim by tapping my fingers or rocking back and forth. i stim by tapping my fingers or rocking back and forth. i stim by tapping my fingers or rocking back and forth. i stim by tapping my fingers or rocking back and forth. i stim by tapping my fingers or rocking back and forth. i stim by tapping my fingers or rocking back and forth. i stim by tapping my fingers or rocking back and forth."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I don't like it when someone touches me unexpectedly."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I don't like it when someone touches me unexpectedly. I don't like it."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I'd rather stick to the same routine every day. id rather stick to the same routine every day."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I'd rather stick to the same routine every day. i'd rather stick to the same routine every day."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I talk a lot about things I love and forget to ask questions about them."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I talk a lot about things I love and forget to ask questions about them. I'm a girl. I'm a girl. I'm a girl. I'm a girl. I'm a girl. I'm a girl. I'm a girl. I'm a girl. I'm a girl. I'm a girl. I'm a girl. I'm a girl. I'm a girl. I'm a"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I find loud cafeterias or classrooms overwhelming."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I find loud cafeterias overwhelming or classrooms overwhelming."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "How can I mimic other peoples speech patterns?"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "How do I mimic other peoples speech patterns?"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "How do I filter out background noise?"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "How can I filter out background noise?"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I take things very literallyit confuses me when people dont mean what they say."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I take things very literallyit confuses me when people don't mean what they say."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I find transitions between tasks really difficult for me."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I find transitions between tasks really difficult."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I often feel like im watching a conversation instead of being in it."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I often feel like I'm watching a conversation instead of being in it."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I zone out in social settings but dont mean to be rude."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I zone out in social settings but don't mean to be rude."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "How do I practice facial expressions in front of a mirror?"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I practice facial expressions in front of a mirror."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "When I am in a crowded place, it makes me mentally shut down."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "When I am in a crowded place, it makes me shut down mentally."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I get really interested in patterns or numbers. i get really interested in numbers. i get really interested in patterns or numbers. i get really interested in numbers. i get really interested in patterns or numbers. i get really interested in numbers. i get really interested in patterns or numbers. i get really interested in numbers. i get really interested in numbers. i get really interested in patterns or numbers. i get really interested in numbers. i get really interested in numbers. i get really interested in numbers."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I get really interested in patterns or numbers. i get really interested in numbers. i get really interested in patterns or numbers. i get really interested in numbers. i get really interested in patterns or numbers. i get really interested in numbers. i get really interested in patterns or numbers. i get really interested in numbers. i get really interested in patterns or numbers. i get really interested in numbers. i get really interested in numbers. i get really interested in numbers. i get really interested in numbers."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "How do I avoid phone calls that are too unpredictable?"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I avoid phone calls theyre too unpredictable."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "People often say i speak in a robotic way. I can't speak in a robot way. I can't speak in a robot way. I can't speak in a robot way. I can't speak in a robot way. I can't speak in a robot way. I can't speak in a robot way. I can't speak in a robot way. I can't speak in a robot way. I can't speak in a robot way."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "People often say i speak in a robotic way. I can't speak in a robot way. I can't speak in a robot way. I can't speak in a robot way. I can't speak in a robot way. I can't speak in a robot way. I can't speak in a robot way. I can't speak in a robot way. I can't speak in a robot way. I can't speak in a robot way. I can"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I prefer texting because I have time to think."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I prefer texting because i have time to think."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I can spend hours focusing on one specific hobby. i can spend hours focusing on one specific hobby. i can spend hours focusing on one specific hobby. i can spend hours focusing on one specific hobby. i can spend hours focusing on one specific hobby. i can spend hours focusing on one specific hobby. i can spend hours focusing on one specific hobby. i can spend hours focusing on one specific hobby. i can spend hours focusing on one specific hobby. i can spend hours"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I can spend hours focusing on one specific hobby. i can spend hours focusing on one particular hobby. i can spend hours focusing on one specific hobby. i can spend hours focusing on one specific hobby. i can spend hours focusing on one specific hobby. i can spend hours focusing on one specific hobby. i can spend hours focusing on one specific hobby. i can spend hours focusing on one specific hobby. i can spend hours focusing on one specific hobby. i can spend hours"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I have trouble reading between the lines in conversations."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I have trouble reading between the lines in a conversation."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "When im overwhelmed i need to be alone to recover."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "When im overwhelmed, i need to be alone to recover."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I've been told I don't show emotion the normal way. ive been told i dont show emotion the normal way. ive been told i dont show emotion the normal way. ive been told i dont show emotion the normal way. ive been told i dont show emotion the normal way. ive been told i dont show emotion the normal way. ive been told i dont show emotion the normal way. ive been told i dont show emotion the normal way. ive been told i dont"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I've been told I don't show emotion the normal way. ive been told i dont show emotion the normal way. ive been told i dont show emotion the normal way. ive been told i dont show emotion the normal way. ive been told i dont show emotion the normal way. ive been told i dont show emotion the normal way. ive been told i dont show emotion the normal way. ive been told i dont show emotion the normal way."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I get anxious when my routine is disrupted."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "Why do I get anxious when my routine is disrupted?"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I am very sensitive to certain fabrics or textures."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I am very sensitive to certain fabrics or textures. Im very sensitive to them."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "Sometimes i flap my hands or tap objects repeatedly. sometimes i sneeze. sometimes i sneeze. sometimes i sneeze. sometimes i sneeze. sometimes i sneeze. sometimes i sneeze. sometimes i sneeze. sometimes i sneeze. sometimes i sneeze. sometimes i sneeze. sometimes i sneeze. sometimes i"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "Sometimes i flap my hands or tap objects repeatedly. Sometimes i sneeze. sometimes i sneeze. sometimes i sneeze. sometimes i sneeze. sometimes i sneeze. sometimes i sneeze. sometimes i sneeze. sometimes i sneeze. sometimes i sneeze. sometimes i sneeze. sometimes i sneeze. sometimes i"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I analyze conversations afterward wondering what went wrong."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I analyze conversations afterward wondering what went wrong?"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I don't like unstructured social events. I don't like unstructured social events. I don't like unstructured social events. I like unstructured social events. I don't like unstructured social events. I like unstructured social events. I don't like unstructured social events. I don't like unstructured social events. I don't like unstructured social events. I don't like unstructured social events."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I don't like unstructured social events. I don't like unstructured social events. I like unstructured social events. I don't like unstructured social events. I like unstructured social events. I don't like unstructured social events. I don't like unstructured social events. I like unstructured social events. I don't like unstructured social events. I don't like unstructured social events."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "Why do people say i talk at them instead of with them?"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "Why do people say I talk at them instead of with them?"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I often rehearse conversations in my head before they happen."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I often rehearse conversations in my head before they happen. i often rehearse conversations in my head before they happen. i often rehearse conversations in my head before they happen. i often rehearse conversations in my head before they happen. i often rehearse conversations in my head before they happen. i often rehearse conversations in my head before they happen. i often rehearse"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I feel safer when things follow a predictable order."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I feel safer when things happen in a predictable order."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I've been called blunt but i never mean to hurt anyone."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I have been called blunt but i never mean to hurt anyone."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "My interests are very specific but i love diving deep into them."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "My interests are very specific but I love diving deep into them."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I need advance notice for changesI hate surprises."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I need advance notice for changes. I hate surprises."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I notice tiny details others seem to miss....................................................."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I notice tiny details others seem to miss...................................................."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "My face doesn't always match how I feel inside."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "My face doesn't always match how i feel inside."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "Sometimes I repeat words or phrases under my breath."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "Sometimes i repeat words or phrases under my breath."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I don't understand small talk. It feels pointless."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I don't understand small talk. it feels pointless."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I struggle with facial recognition even for familiar people."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I struggle with facial recognition, even for familiar people."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I get very attached to certain objects or routines. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "i get very attached to certain objects or routines. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached to them. i get very attached"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "How do I prepare for social interaction?"
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I need to prepare mentally for social interactions."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I enjoy solitude more than being with people."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I enjoy solitude more than people."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I always felt different like im on a different wavelength."
+  },
+  {
+    "condition": "ASD",
+    "section": "User Descriptions",
+    "text": "I always felt like I was on a different wavelength."
+  }
+]

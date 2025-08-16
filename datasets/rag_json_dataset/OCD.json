@@ -1,0 +1,62 @@
+[
+  {
+    "condition": "Obsessive‑Compulsive Disorder",
+    "source": "https://www.nimh.nih.gov/health/topics/obsessive‑compulsive-disorder-ocd",
+    "section": "Overview",
+    "text1": "Obsessive‑Compulsive Disorder (OCD) is a mental health condition where individuals experience recurrent, unwanted thoughts (obsessions) and feel compelled to perform repetitive behaviors (compulsions).",
+    "text2": "Obsessions often involve fears of contamination, harming others, or needing symmetry, while compulsions are performed to reduce anxiety tied to those obsessions.",
+    "text3": "Symptoms typically begin in late childhood or early adulthood, though they can appear earlier or later in life.",
+    "text4": "OCD can significantly disrupt daily functioning, affecting work, school, relationships, and self-esteem.",
+    "text5": "Despite its chronic nature, OCD is highly treatable—especially when recognized and managed early."
+  },
+  {
+    "condition": "Obsessive‑Compulsive Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over",
+    "section": "Symptoms",
+    "text1": "Obsessions are intrusive ideas or images that cause intense anxiety or distress and are hard to control.",
+    "text2": "Common compulsions include repetitive hand-washing, checking locks, arranging items, counting, and repeating words or rituals.",
+    "text3": "Compulsions may temporarily reduce anxiety but can become time-consuming, interfering with daily life.",
+    "text4": "Some individuals experience 'mental compulsions,' such as silently repeating phrases or praying to neutralize obsessions.",
+    "text5": "Both obsessions and compulsions can vary in content and severity, and often co-occur with anxiety or depressive disorders."
+  },
+  {
+    "condition": "Obsessive‑Compulsive Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over",
+    "section": "Causes",
+    "text1": "The exact causes of OCD are not fully known but include genetic, neurological, cognitive, and environmental factors.",
+    "text2": "Brain imaging studies suggest functional and structural differences in areas that regulate fear response and decision-making.",
+    "text3": "People with family members who have OCD are at increased risk, indicating a hereditary contribution.",
+    "text4": "Stressful life events such as illness, relationship problems, or trauma may trigger or exacerbate OCD symptoms in vulnerable individuals.",
+    "text5": "Learned behavioral patterns and cognitive beliefs—such as overestimating threats—can also reinforce obsession-compulsion cycles."
+  },
+  {
+    "condition": "Obsessive‑Compulsive Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over",
+    "section": "Treatment Options",
+    "text1": "Cognitive Behavioral Therapy (CBT), specifically Exposure and Response Prevention (ERP), is considered the gold standard treatment for OCD.",
+    "text2": "ERP involves gradual exposure to obsessional triggers without engaging in compulsive behaviors, helping reduce fear and urge over time.",
+    "text3": "Selective serotonin reuptake inhibitors (SSRIs) are often effective in reducing OCD symptoms, especially at higher doses.",
+    "text4": "In treatment-resistant cases, other medications like clomipramine or augmentation strategies may be considered.",
+    "text5": "For severe OCD that does not respond to therapy or medication, advanced interventions like deep brain stimulation (DBS) or transcranial magnetic stimulation (TMS) may be explored."
+  },
+  {
+    "condition": "Obsessive‑Compulsive Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over",
+    "section": "Coping Tips",
+    "text1": "Set aside a brief daily ‘worry period’ to acknowledge obsessive thoughts in a structured way and postpone them when necessary.",
+    "text2": "Practice self-care routines like sleep hygiene, regular exercise, and balanced nutrition to support emotional resilience.",
+    "text3": "Keep a journal to track triggers, thoughts, and urges to better understand and manage patterns.",
+    "text4": "Mindfulness and grounding techniques like deep breathing or meditation can help interrupt obsessive-compulsive cycles.",
+    "text5": "Connect with support groups or loved ones to reduce isolation and gain encouragement during challenging moments."
+  },
+  {
+    "condition": "Obsessive‑Compulsive Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over",
+    "section": "When to Seek Help",
+    "text1": "Seek help if obsessions or compulsions consume significant time, cause distress, or interfere with daily functioning.",
+    "text2": "If avoidance behaviors limit your ability to work, attend school, or maintain relationships, professional assessment is important.",
+    "text3": "Immediate help is crucial if OCD symptoms lead to dangerous behaviors or severe anxiety.",
+    "text4": "A mental health provider like a psychiatrist or psychologist can properly diagnose and develop a treatment plan tailored to your needs.",
+    "text5": "Early intervention improves quality of life and increases the likelihood of symptom improvement with treatment."
+  }
+]

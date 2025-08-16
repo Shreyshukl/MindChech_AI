@@ -1,0 +1,802 @@
+[
+  {
+    "condition": "Anxiety",
+    "source": "https://www.nimh.nih.gov/health/topics/anxiety-disorders",
+    "section": "Overview",
+    "text1": "Anxiety disorders involve more than temporary worry or fear and can interfere with daily life such as job performance, schoolwork, and relationships.",
+    "text2": "There are several types of anxiety disorders, including generalized anxiety disorder, panic disorder, social anxiety disorder, and specific phobias.",
+    "text3": "Anxiety disorders are among the most common mental health conditions, affecting millions worldwide.",
+    "text4": "They often co-occur with other mental disorders such as depression, PTSD, or substance use disorders.",
+    "text5": "With proper treatment, most people with anxiety disorders can lead normal, productive lives."
+  },
+  {
+    "condition": "Anxiety",
+    "source": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad",
+    "section": "Symptoms",
+    "text1": "People with generalized anxiety disorder (GAD) experience persistent and excessive worry about various aspects of life such as health, work, or finances.",
+    "text2": "Symptoms include restlessness, fatigue, difficulty concentrating, irritability, muscle tension, and sleep disturbances.",
+    "text3": "The anxiety is difficult to control and occurs more days than not for at least six months.",
+    "text4": "GAD can impair a person's ability to function socially, occupationally, and in other important areas of life.",
+    "text5": "Symptoms can range from mild to severe and may fluctuate over time depending on stress levels and life circumstances."
+  },
+  {
+    "condition": "Anxiety",
+    "source": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad",
+    "section": "Causes",
+    "text1": "The exact causes of GAD are not fully known but involve a combination of biological, environmental, and psychological factors.",
+    "text2": "Genetic predisposition can increase the likelihood of developing anxiety disorders.",
+    "text3": "Brain chemistry, particularly imbalances in neurotransmitters like serotonin and dopamine, may play a role.",
+    "text4": "Stressful or traumatic life events, such as abuse, the death of a loved one, or chronic illness, can trigger or worsen anxiety symptoms.",
+    "text5": "Anxiety disorders often co-occur with other mental health conditions like depression or substance use disorders."
+  },
+  {
+    "condition": "Anxiety",
+    "source": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad",
+    "section": "Treatment Options",
+    "text1": "Generalized Anxiety Disorder (GAD) can be effectively treated using a variety of methods tailored to individual needs.",
+    "text2": "Cognitive Behavioral Therapy (CBT) is one of the most effective psychotherapies for GAD, helping individuals identify and challenge negative thought patterns.",
+    "text3": "Medications, such as selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs), are commonly prescribed.",
+    "text4": "Some individuals benefit from lifestyle changes, including regular exercise, healthy sleep habits, and mindfulness techniques.",
+    "text5": "Combining medication with psychotherapy often yields the best outcomes for individuals with moderate to severe anxiety."
+  },
+  {
+    "condition": "Anxiety",
+    "source": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad",
+    "section": "When to Seek Help",
+    "text1": "Professional help should be sought if anxiety interferes with daily functioning, relationships, or quality of life.",
+    "text2": "Signs you may need support include chronic worry, panic attacks, sleep disruption, or avoidance of social situations.",
+    "text3": "Primary care providers can offer referrals to mental health professionals such as psychologists or psychiatrists.",
+    "text4": "Early diagnosis and intervention can prevent the worsening of symptoms and improve long-term outcomes.",
+    "text5": "Support systems including family, therapy groups, and mental health resources can be essential for recovery and coping."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i keep imagining the worst possible outcome even when things seem fine"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "my heart races before every phone call even casual ones"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i cant stop overthinking what i said in that conversation yesterday"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "every little noise makes me jump lately"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i feel like something bad is about to happen all the time"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i constantly secondguess myself even with simple choices"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "my mind wont stop spiraling especially at night"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i worry about things that others seem to ignore"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i feel tense all the time like im bracing for something"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i hate uncertainty it makes me feel out of control"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "ive been checking my email every two minutes just to make sure i didnt miss anything"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i replay conversations in my head over and over"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i feel a lump in my throat when i try to relax"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i cant concentrate because im constantly worrying about whats next"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i avoid making plans because i worry ill mess them up"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "even small mistakes make me feel panicked"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "im always on edge like somethings about to go wrong"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i find it hard to breathe when im thinking about the future"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i keep rehearsing worstcase scenarios in my mind"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i get physically sick from worrying too much"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i often feel like im in danger even when im not"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i cant sleep because my brain wont shut off"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i get a sense of dread when i think about the next day"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i avoid people because social situations stress me out"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i fidget constantly to distract myself from nervous thoughts"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i feel the need to be prepared for every little thing"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i double and triple check everything i do"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i have tension headaches almost every day"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i cant sit still when something is uncertain"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i catastrophize small problems all the time"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i wake up already anxious about things i need to do"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i fear failure so much it stops me from starting anything"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i dread changes in routine because they throw me off balance"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i hate being late it stresses me out to an extreme"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i get nervous even when i know ive done nothing wrong"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i avoid emails or messages because im scared of bad news"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i need constant reassurance that im doing okay"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i feel uneasy in crowded places"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i freeze when i feel overwhelmed by too many thoughts"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i fear judgment more than i probably should"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i always expect things to go badly even without reason"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i constantly try to predict what people are thinking"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i panic when i lose control over something"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i cant enjoy the moment because im too focused on what might go wrong"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i feel drained from constantly being on high alert"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i talk too fast when im nervous and dont even realize it"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i keep imagining situations where i embarrass myself"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i avoid starting new things because im scared of messing up"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i worry people secretly dislike me even with no evidence"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i feel like my nerves are always buzzing"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I keep imagining the worst possible outcome even when things seem fine. i keep imagining the worst possible outcome even when things seem fine. i keep imagining the worst possible outcome even when things seem fine. i keep imagining the worst possible outcome even when things seem fine. i keep imagining the worst possible outcome even when things seem fine. i keep imagining the worst possible outcome even when things seem fine. i keep imagining the worst possible outcome even when things seem fine."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I keep imagining the worst possible outcome even when things seem fine. i keep imagining the worst possible outcome even when things seem fine. i keep imagining the worst possible outcome even when things seem fine. i keep imagining the worst possible outcome even when things seem fine. i keep imagining the worst possible outcome even when things seem fine. i keep imagining the worst possible outcome even when things seem fine. i keep imagining the worst possible outcome even when things seem fine. i"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "My heart races before every phone call even casual ones."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "My heart beats before every phone call even casual ones."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I can't stop overthinking what I said in that conversation yesterday. I can't stop overthinking what I said yesterday."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I can't stop overthinking what I said in that conversation yesterday. I can't stop overthinking what I said in that conversation yesterday."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "Every little noise makes me jump lately."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "Every little sound makes me jump lately."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I feel like something bad is about to happen all the time."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I feel like something bad is about to happen all the time. i feel like something bad is about to happen all the time."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I constantly secondguess myself even with simple choices."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I secondguess myself even with simple choices. i constantly secondguess myself even with simple choices."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "My mind won't stop spiraling especially at night."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "My mind wont stop spiraling especially at night."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I worry about things that others seem to ignore. i worry about things that others seem to ignore. i worry about things that others seem to ignore. i worry about things that others seem to ignore. i worry about things that others seem to ignore. i worry about things that others seem to ignore. i worry about things that others seem to ignore. i worry about things that others seem to ignore. i worry about things that others seem to ignore. i worry about things that others seem to ignore. i worry about"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I worry about things that others seem to ignore. i worry about things that others seem to ignore. i worry about things that others seem to ignore. i worry about things that others seem to ignore. i worry about things that others seem to ignore. i worry about things that others seem to ignore. i worry about things that others seem to ignore. i worry about things that others seem to ignore. i worry about things that others seem to ignore. i worry about things that others seem to ignore."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I feel tense all the time like im bracing for something."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I feel tense all the time, like im bracing for something."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I hate uncertainty, it makes me feel out of control."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I hate uncertainty. It makes me feel out of control."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I've been checking my email every two minutes just to make sure I didn't miss anything. I've been checking my email every two minutes just to make sure I didn't miss anything."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I've been checking my email every two minutes just to make sure I didn't miss anything. I've been checking my email every two minutes just to make sure i didn't miss anything."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I can replay conversations in my head over and over again."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I replay conversations in my head over and over again."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I feel a lump in my throat when I try to relax."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I feel a lump in my throat when i try to relax."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I can't concentrate because im constantly worrying about what will happen next."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I can't concentrate because im constantly worrying about what's next."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I avoid making plans because i worry ill mess them up.................................................."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I avoid making plans because i fear ill mess them up.................................................."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "Even small mistakes make me feel panicked."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "Even small mistakes make me panicked."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I'm always on edge like something is going wrong."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I always feel like something is going wrong. Im always on edge."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I find it hard to breathe when im thinking about the future."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I find it hard to breathe when I am thinking about the future."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I keep rehearsing worstcase scenarios in my mind. i keep rehearsing worstcase scenarios in my mind. i keep rehearsing worstcase scenarios in my mind. i keep rehearsing worstcase scenarios in my mind. i keep rehearsing worstcase scenarios in my mind. i keep rehearsing worstcase scenarios in my mind. i keep rehearsing worstcase scenarios in my mind. i"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I keep rehearsing worst case scenarios in my mind. i keep rehearsing worstcase scenarios in my mind. i keep rehearsing worstcase scenarios in my mind. i keep rehearsing worstcase scenarios in my mind. i keep rehearsing worstcase scenarios in my mind. i keep rehearsing worstcase scenarios in my mind. i keep rehearsing worstcase scenarios in my mind. i"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I get sick from worrying too much."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I get physically sick from worrying too much."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I often feel like im in danger even when im not in danger."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I feel like im in danger even when im not in danger."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I can't sleep because my brain won't shut off."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "Why can't I sleep because my brain won't shut off?"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I get a sense of dread when I think about the next day."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I get a sense of dread when i think about the next day."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I avoid people because social situations stress me out. i avoid people because they stress me out. i avoid people because they stress me out. i avoid people because they stress me out. i avoid people because they stress me out. i avoid people because they stress me out. i avoid people because they stress me out. i avoid people because they stress me out. i avoid people because they stress me out. i avoid people because they stress me out. i avoid people because they stress me out. i avoid"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I avoid people because social situations stress me out. i avoid people because they stress me out. i avoid people because they stress me out. i avoid people because they stress me out. i avoid people because they stress me out. i avoid people because they stress me out. i avoid people because they stress me out. i avoid people because they stress me out. i avoid people because they stress me out. i avoid people because they stress me out. i avoid people because they stress me out."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I fidget constantly to distract myself from nervous thoughts."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I fidget constantly to distract myself from my nervous thoughts."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I feel the need to be prepared for every little thing. i feel the need to be prepared for every little thing. i feel the need to be prepared for every little thing. i feel the need to be prepared for every little thing. i feel the need to be prepared for every little thing. i feel the need to be prepared for every little thing. i feel the need to be prepared for every little thing. i feel the need to be prepared for every little thing. i feel the need to be prepared for every"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I feel the need to be prepared for every little thing. i feel the need to be prepared for every little thing. i feel the need to be prepared for everything. i feel the need to be prepared for every little thing. i feel the need to be prepared for every little thing. i feel the need to be prepared for every little thing. i feel the need to be prepared for every little thing. i feel the need to be prepared for every little thing. i feel the need to be prepared for every little thing"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I double and triple check everything i do."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I double check everything i do and triple check everything i do."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I have tension headaches almost every day."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I have tension headaches almost every day. How can I get rid of them?"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "Why can't I sit still when something is uncertain?"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I can't sit still when something is uncertain."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I catastrophize small problems all the time. i catastrophize small problems all the time. i catastrophize small problems all the time. i catastrophize small problems all the time. i catastrophize small problems all the time. i catastrophize small problems all the time. i catastrophize small problems all the time. i catastrophize small problems all the time. i catastrophize small problems all"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "i catastrophize small problems all the time. i catastrophize small problems all the time. i catastrophize small problems all the time. i catastrophize small problems all the time. i catastrophize small problems all the time. i catastrophize small problems all the time. i catastrophize small problems all the time. i catastrophize small problems all the time. i catastrophize small problems"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I wake up already anxious about things i need to do. i can't do anything. i can't do anything. i can't do anything. i can't do anything. i can't do anything. i can't do anything. i can't do anything. i can't do anything. i can't do anything. i can't do anything. i can't do anything. i can't do anything. i can'"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I wake up already anxious about things i need to do. I can't do anything. I can't do anything. I can't do anything. I can't do anything. I can't do anything. I can't do anything. I can't do anything. I can't do anything. I can't do anything. I can't do anything. I can't do anything. I can't do anything. I can't do anything. I can't do anything. I can"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I fear failure so much that it stops me from starting anything."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "Why do I fear failure so much?"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I dread changes in routine because they throw me off balance."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I dread change in routine because they throw me off balance."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I hate being late, it stresses me out to an extreme extent."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I hate being late. It stresses me out to an extreme."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I get nervous even when i know i have done nothing wrong."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I get nervous even when I know i have done nothing wrong."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I avoid emails or messages because im scared of bad news."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I avoid email or messages because im scared of bad news."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I need constant reassurance that im doing okay."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I need constant reassurance that I am doing okay."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I feel uneasy in crowded places."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "Why do I feel uneasy in crowded places?"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I freeze when I feel overwhelmed by too many thoughts."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I freeze when i feel overwhelmed by too many thoughts."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I fear judgment more than I probably should."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I fear judgement more than I probably should."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I always expect things to go badly even without a reason. I always expect things to go badly even without a reason."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I always expect things to go badly even without a reason. I always expect things to go badly even without a reason. I always expect things to go badly even without a reason."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "How can I predict what people are thinking?"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "How do I predict what people are thinking?"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I panic when I lose control over something. I can't control myself. I can't control myself. I can't control myself. I can't control myself. I can't control myself. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't. I can't"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I panic when I lose control over something. I can't control anything. I can't control anything. I can't control anything. I can't control anything. I can't control anything. I can't control anything. I can't control anything. I can't control anything. I can't control anything. I can't control anything. I can't control anything. I can't control anything. I can't control anything. I can't control anything. I can't control anything"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I cant enjoy the moment because im too focused on what might go wrong."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I can't enjoy the moment because im too focused on what might go wrong."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I feel drained from constantly being on high alert."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I feel drained from constantly being on high alert. i feel drained from constantly being on high alert."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I talk too fast when im nervous and dont even realize it."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I talk too fast when im nervous and dont realize it."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I keep imagining situations where i embarrass myself. i keep imagining situations where i embarrass myself. i keep imagining situations where i embarrass myself. i keep imagining situations where i embarrass myself. i keep imagining situations where i embarrass myself. i keep imagining situations where i embarrass myself. i keep imagining situations where i embarrass myself. i"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I keep imagining situations where I embarrass myself. i keep imagining situations where i embarrass myself. i keep imagining situations where i embarrass myself. i keep imagining situations where i embarrass myself. i keep imagining situations where i embarrass myself. i keep imagining situations where i embarrass myself. i keep imagining situations where i embarrass myself. i keep"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I avoid starting new things because im scared of messing up."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I avoid starting new things because i am scared of messing up."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "Why do people dislike me so much?"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "Why do some people dislike me so much?"
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I feel like my nerves are always buzzing."
+  },
+  {
+    "condition": "Anxiety",
+    "section": "User Descriptions",
+    "text": "I feel like my nerves are always buzzing. Why?"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "condition": "Eating Disorders",
+    "source": "https://www.nimh.nih.gov/health/publications/eating-disorders",
+    "section": "Overview",
+    "text1": "Eating disorders are serious mental health conditions characterized by severe disruptions in eating behavior, thoughts, and emotions.",
+    "text2": "Individuals with eating disorders often become preoccupied with food, body weight, or shape, which can dominate their daily lives.",
+    "text3": "Common types of eating disorders include anorexia nervosa, bulimia nervosa, binge-eating disorder, and ARFID.",
+    "text4": "These disorders can affect anyone regardless of age, gender, or background, although they often begin during adolescence.",
+    "text5": "Without treatment, eating disorders can lead to severe health complications and even become life-threatening."
+  },
+  {
+    "condition": "Eating Disorders",
+    "source": "https://www.nimh.nih.gov/health/statistics/eating-disorders",
+    "section": "Symptoms",
+    "text1": "Binge-eating disorder involves episodes of eating large amounts of food quickly, often with a feeling of loss of control.",
+    "text2": "People with bulimia nervosa alternate binge-eating with purging behaviors like vomiting or excessive exercise.",
+    "text3": "Anorexia nervosa is marked by extreme restriction of food, intense fear of gaining weight, and a distorted body image.",
+    "text4": "Symptoms are not always visible—individuals can be underweight, average weight, or overweight and still struggle with an eating disorder.",
+    "text5": "Emotional symptoms may include guilt, shame, or anxiety related to food, weight, and eating habits."
+  },
+  {
+    "condition": "Eating Disorders",
+    "source": "https://www.nimh.nih.gov/health/statistics/eating-disorders",
+    "section": "Causes",
+    "text1": "Eating disorders often occur alongside other mental health conditions like anxiety, depression, or substance use disorders.",
+    "text2": "Genetic, biological, behavioral, psychological, and social factors can all contribute to the development of eating disorders.",
+    "text3": "Societal pressure to conform to unrealistic body ideals can be a significant trigger for at-risk individuals.",
+    "text4": "Family dynamics, trauma, and stress can also play roles in the onset of disordered eating patterns.",
+    "text5": "Lack of early intervention can lead to a worsening cycle of emotional distress and disordered eating."
+  },
+  {
+    "condition": "Eating Disorders",
+    "source": "https://www.nimh.nih.gov/health/publications/eating-disorders",
+    "section": "Treatment Options",
+    "text1": "Effective treatment often includes a combination of psychotherapy, medical care, and nutrition counseling.",
+    "text2": "Cognitive behavioral therapy (CBT) is commonly used to help patients recognize and change disordered thoughts and behaviors.",
+    "text3": "In severe cases, hospitalization may be necessary to address malnutrition or medical instability.",
+    "text4": "Medication may be used to treat co-occurring issues like anxiety or depression, though it’s not a standalone solution.",
+    "text5": "Family-based therapy can be particularly effective for adolescents with eating disorders."
+  },
+  {
+    "condition": "Eating Disorders",
+    "source": "https://www.nimh.nih.gov/health/publications/eating-disorders",
+    "section": "Coping Tips",
+    "text1": "Building a supportive network of friends and family can greatly aid in recovery.",
+    "text2": "Avoiding negative body talk and focusing on non-appearance-related achievements helps build self-esteem.",
+    "text3": "Setting small, manageable goals can make progress feel more achievable during recovery.",
+    "text4": "Mindfulness practices like meditation and journaling can reduce anxiety around food and body image.",
+    "text5": "Staying connected with treatment providers and attending support groups can reinforce recovery progress."
+  },
+  {
+    "condition": "Eating Disorders",
+    "source": "https://www.nimh.nih.gov/health/publications/eating-disorders",
+    "section": "When to Seek Help",
+    "text1": "Seek professional help if eating habits are interfering with daily life, health, or emotional well-being.",
+    "text2": "If you notice signs in a loved one, like food rituals or withdrawal from social meals, encourage them to talk to a provider.",
+    "text3": "Persistent guilt, shame, or anxiety after eating can be signs it’s time to seek help.",
+    "text4": "The earlier treatment begins, the better the outcomes—don’t wait for a crisis.",
+    "text5": "Mental health professionals, primary care doctors, and dietitians can all be part of an effective care team."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "condition": "Schizophrenia",
+    "source": "https://www.nimh.nih.gov/health/statistics/schizophrenia",
+    "section": "Overview",
+    "text1": "Schizophrenia is a serious mental illness that affects how a person thinks, feels, and behaves; individuals may appear to have lost touch with reality.",
+    "text2": "The condition typically begins in late adolescence or early adulthood, though early signs may appear earlier in childhood.",
+    "text3": "Despite its relatively low prevalence (about 0.3–0.7%), schizophrenia is one of the top 15 causes of global disability.",
+    "text4": "Subtle cognitive and social changes often precede full psychotic symptoms, offering opportunities for early intervention.",
+    "text5": "While chronic, many individuals can lead meaningful lives with proper treatment and support."
+  },
+  {
+    "condition": "Schizophrenia",
+    "source": "https://www.nimh.nih.gov/health/statistics/schizophrenia",
+    "section": "Symptoms",
+    "text1": "Psychotic symptoms include hallucinations (often hearing voices), delusions, and disorganized speech or behavior.",
+    "text2": "Negative symptoms can involve reduced emotional expression, motivation, speech, and social engagement.",
+    "text3": "Cognitive symptoms, affecting memory and reasoning, often appear early in the prodromal phase.",
+    "text4": "Prodromal signs include social withdrawal, poor hygiene, sleep issues, and a decline in performance.",
+    "text5": "These symptoms vary in severity but have a major impact on functioning and quality of life."
+  },
+  {
+    "condition": "Schizophrenia",
+    "source": "https://www.nimh.nih.gov/health/statistics/schizophrenia",
+    "section": "Causes",
+    "text1": "Schizophrenia arises from a complex interaction of genetic predisposition and environmental triggers.",
+    "text2": "Having a close relative with schizophrenia significantly increases one’s risk.",
+    "text3": "Environmental factors such as childhood adversity, urban upbringing, and substance use can elevate risk.",
+    "text4": "Brain development disruptions and neurobiological differences are implicated in the disorder's origin.",
+    "text5": "Prodromal detection and early intervention may improve long-term outcomes by mitigating developmental impacts."
+  },
+  {
+    "condition": "Schizophrenia",
+    "source": "https://www.nimh.nih.gov/health/publications/schizophrenia",
+    "section": "Treatment Options",
+    "text1": "Antipsychotic medications are foundational in managing psychotic symptoms and improving daily function.",
+    "text2": "Coordinated specialty care (CSC), including the RAISE initiative, integrates medication, therapy, and support services early in treatment.",
+    "text3": "Psychosocial treatments like psychotherapy, supported employment, and social skills training improve recovery.",
+    "text4": "Treatment is lifelong; even during symptom remission, continued medication and therapy reduce relapse risk.",
+    "text5": "Family involvement and education enhance adherence and outcomes, especially in coordinated care settings."
+  },
+  {
+    "condition": "Schizophrenia",
+    "source": "https://www.nimh.nih.gov/health/publications/schizophrenia",
+    "section": "Coping Tips",
+    "text1": "Create and follow a consistent routine—sleep, meals, medication—to stabilize mood and functioning.",
+    "text2": "Recognize warning signs early and engage support systems or healthcare providers promptly.",
+    "text3": "Engage in supportive psychotherapy and communicate goals with family or friends.",
+    "text4": "Practice stress reduction techniques like mindfulness, journaling, or relaxation to maintain well-being.",
+    "text5": "Participate in peer or community support groups to reduce isolation and enhance recovery."
+  },
+  {
+    "condition": "Schizophrenia",
+    "source": "https://www.nimh.nih.gov/health/statistics/schizophrenia",
+    "section": "When to Seek Help",
+    "text1": "Seek evaluation if experiencing hallucinations, delusions, disorganized thinking, or withdrawal from reality.",
+    "text2": "Early symptoms like reduced motivation, cognitive decline, or social withdrawal warrant professional attention.",
+    "text3": "Early intervention during first-episode psychosis offers better outcomes and a greater chance for recovery.",
+    "text4": "If prescribed medication, consistent usage and follow-up care are essential to prevent relapse.",
+    "text5": "Family members and caregivers should seek support and resources when noticing concerning behavior changes."
+  }
+]

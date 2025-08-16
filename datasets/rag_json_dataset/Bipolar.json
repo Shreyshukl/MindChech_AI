@@ -1,0 +1,52 @@
+[
+  {
+    "condition": "Bipolar Disorder",
+    "source": "https://www.nimh.nih.gov/health/topics/bipolar-disorder",
+    "section": "Overview",
+    "text1": "Bipolar disorder is a mental health condition that causes extreme mood swings, including emotional highs (mania or hypomania) and lows (depression).",
+    "text2": "These episodes can last for days to weeks and significantly interfere with work, relationships, and daily functioning.",
+    "text3": "The condition affects both men and women and typically develops in the late teens or early adulthood.",
+    "text4": "Some people may have long periods without symptoms, while others may experience frequent mood episodes.",
+    "text5": "Bipolar disorder is a lifelong condition that requires ongoing management and treatment."
+  },
+  {
+    "condition": "Bipolar Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/bipolar-disorder",
+    "section": "Symptoms",
+    "text1": "Manic symptoms include increased energy, reduced need for sleep, inflated self-esteem, rapid speech, and risky behaviors.",
+    "text2": "Depressive symptoms include fatigue, hopelessness, difficulty concentrating, changes in appetite, and suicidal thoughts.",
+    "text3": "Symptoms may vary in severity and duration across different individuals and episodes.",
+    "text4": "Mood episodes can cause noticeable changes in sleep, activity, and behavior that are out of character for the individual.",
+    "text5": "Mixed episodes can involve both manic and depressive symptoms simultaneously, making diagnosis more challenging."
+  },
+  {
+    "condition": "Bipolar Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/bipolar-disorder",
+    "section": "Causes",
+    "text1": "The exact cause of bipolar disorder is unknown, but it likely involves a combination of genetic and environmental factors.",
+    "text2": "Studies suggest that people with a family history of bipolar disorder are more likely to develop the condition.",
+    "text3": "Abnormalities in brain structure and neurotransmitter function may contribute to mood dysregulation.",
+    "text4": "Stressful life events, trauma, or substance abuse can trigger or worsen symptoms in vulnerable individuals.",
+    "text5": "Ongoing research is exploring the complex interplay of biological, psychological, and social factors in bipolar disorder."
+  },
+  {
+    "condition": "Bipolar Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/bipolar-disorder",
+    "section": "Diagnosis",
+    "text1": "Diagnosis involves a comprehensive psychiatric evaluation to assess mood patterns and rule out other conditions.",
+    "text2": "Clinicians may use structured interviews, questionnaires, and input from family members to gather information.",
+    "text3": "Differentiating bipolar disorder from other mood disorders such as major depression can be difficult.",
+    "text4": "Lab tests may be conducted to rule out other medical issues that can mimic bipolar symptoms.",
+    "text5": "Diagnosis often takes time and observation, especially in young people or those with overlapping conditions."
+  },
+  {
+    "condition": "Bipolar Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/bipolar-disorder",
+    "section": "Treatment Options",
+    "text1": "Mood-stabilizing medications like lithium are commonly used to control episodes of mania and depression.",
+    "text2": "Antipsychotic drugs and antidepressants may be prescribed depending on the type and severity of symptoms.",
+    "text3": "Psychotherapy, including CBT and family-focused therapy, helps individuals manage symptoms and improve functioning.",
+    "text4": "Lifestyle changes like regular sleep, exercise, and stress management are important components of treatment.",
+    "text5": "For severe or treatment-resistant cases, electroconvulsive therapy (ECT) may be considered."
+  }
+]

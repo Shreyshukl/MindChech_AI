@@ -1,0 +1,802 @@
+[
+  {
+    "condition": "Bipolar Disorder",
+    "source": "https://www.nimh.nih.gov/health/topics/bipolar-disorder",
+    "section": "Overview",
+    "text1": "Bipolar disorder is a mental health condition that causes extreme mood swings, including emotional highs (mania or hypomania) and lows (depression).",
+    "text2": "These episodes can last for days to weeks and significantly interfere with work, relationships, and daily functioning.",
+    "text3": "The condition affects both men and women and typically develops in the late teens or early adulthood.",
+    "text4": "Some people may have long periods without symptoms, while others may experience frequent mood episodes.",
+    "text5": "Bipolar disorder is a lifelong condition that requires ongoing management and treatment."
+  },
+  {
+    "condition": "Bipolar Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/bipolar-disorder",
+    "section": "Symptoms",
+    "text1": "Manic symptoms include increased energy, reduced need for sleep, inflated self-esteem, rapid speech, and risky behaviors.",
+    "text2": "Depressive symptoms include fatigue, hopelessness, difficulty concentrating, changes in appetite, and suicidal thoughts.",
+    "text3": "Symptoms may vary in severity and duration across different individuals and episodes.",
+    "text4": "Mood episodes can cause noticeable changes in sleep, activity, and behavior that are out of character for the individual.",
+    "text5": "Mixed episodes can involve both manic and depressive symptoms simultaneously, making diagnosis more challenging."
+  },
+  {
+    "condition": "Bipolar Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/bipolar-disorder",
+    "section": "Causes",
+    "text1": "The exact cause of bipolar disorder is unknown, but it likely involves a combination of genetic and environmental factors.",
+    "text2": "Studies suggest that people with a family history of bipolar disorder are more likely to develop the condition.",
+    "text3": "Abnormalities in brain structure and neurotransmitter function may contribute to mood dysregulation.",
+    "text4": "Stressful life events, trauma, or substance abuse can trigger or worsen symptoms in vulnerable individuals.",
+    "text5": "Ongoing research is exploring the complex interplay of biological, psychological, and social factors in bipolar disorder."
+  },
+  {
+    "condition": "Bipolar Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/bipolar-disorder",
+    "section": "Diagnosis",
+    "text1": "Diagnosis involves a comprehensive psychiatric evaluation to assess mood patterns and rule out other conditions.",
+    "text2": "Clinicians may use structured interviews, questionnaires, and input from family members to gather information.",
+    "text3": "Differentiating bipolar disorder from other mood disorders such as major depression can be difficult.",
+    "text4": "Lab tests may be conducted to rule out other medical issues that can mimic bipolar symptoms.",
+    "text5": "Diagnosis often takes time and observation, especially in young people or those with overlapping conditions."
+  },
+  {
+    "condition": "Bipolar Disorder",
+    "source": "https://www.nimh.nih.gov/health/publications/bipolar-disorder",
+    "section": "Treatment Options",
+    "text1": "Mood-stabilizing medications like lithium are commonly used to control episodes of mania and depression.",
+    "text2": "Antipsychotic drugs and antidepressants may be prescribed depending on the type and severity of symptoms.",
+    "text3": "Psychotherapy, including CBT and family-focused therapy, helps individuals manage symptoms and improve functioning.",
+    "text4": "Lifestyle changes like regular sleep, exercise, and stress management are important components of treatment.",
+    "text5": "For severe or treatment-resistant cases, electroconvulsive therapy (ECT) may be considered."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "some days i feel invincible other days i cant get out of bed"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i go from super productive to totally drained within a week"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i sometimes go on shopping sprees and regret it later"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "there are nights i dont sleep and still feel full of energy"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i feel like im either flying or drowningtheres no inbetween"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i talk rapidly and jump between topics when im up"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i feel incredibly creative and inspired then it all disappears"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i cant explain how my energy vanishes for no reason"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i write pages of ideas one week and then hate all of them the next"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i feel overly confident about things i later realize were risky"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "sometimes i take on too many projects at once"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i get irritated when people try to slow me down during highs"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "my emotions feel like a rollercoaster i cant control"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "ive made major life decisions in a moment of excitement"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "ive gone days without sleeping and still felt amazing"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "when im low i cant find any joy in the things i love"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "sometimes i isolate myself for days without telling anyone"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i feel like im not myself half the time"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "people say i change too fastthey dont understand it"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i have periods where i write or create nonstop"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i talk more and louder when im in a high phase"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i feel exhausted after a highenergy week without knowing why"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "ive quit jobs impulsively during a high and regretted it later"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "when im down even brushing my teeth feels impossible"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i go from planning my future in detail to feeling hopeless"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i sometimes get frustrated when people cant keep up with my ideas"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "ive sent a lot of messages during highs that i later deleted"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i spend money recklessly during some phases"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i sometimes feel like im too intense for people"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "my relationships suffer because of my mood swings"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i go through cycles of feeling amazing and then broken"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i cant maintain consistencyit feels out of reach"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "ive had weeks of nonstop activity followed by silence"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i feel like two different people depending on the day"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i sometimes feel super social and then i shut off for days"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i overshare when im manic and regret it later"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i feel overly ambitious and then crash hard"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "ive started businesses or big projects out of nowhere"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "sometimes i act without thinking about consequences"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "im very impulsive when im feeling high"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "during lows i question everything about myself"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i stop responding to messages when im down"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i sometimes think i can fix everythingthen nothing"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "my mind races with ideas at 3am when im up"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i say things i regret when my moods shift"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i feel emotionally drained even after nothing happens"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i feel restless even during exhaustion"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i lose control of my sleep patterns easily"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i go from overly confident to deeply insecure"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "my highs feel amazing but the crashes are brutal"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "Some days i feel invincible while other days i can't get out of bed."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "Some days i feel invincible, other days i can't get out of bed."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I go from super productive to totally drained within a week. i go from super productive to totally drained within a week. i go from super productive to totally drained within a week. i go from super productive to totally drained within a week. i go from super productive to totally drained within a week. i go from super productive to totally drained within a week. i go from super productive to totally drained within a week. i"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I go from super productive to totally drained within a week. i go from super productive to totally drained within a week. i go from super productive to totally drained within a week. i go from super productive to totally drained within a week. i go from super productive to totally drained within a week. i go from super productive to totally drained within a week. i go from super productive to totally drained within a week."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I sometimes go on shopping sprees and regret it later."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I sometimes go on shopping sprees and regret it later on."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "There are nights when I don't sleep and still feel full of energy."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "There are nights when i don't sleep and still feel full of energy."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I feel like I'm either flying or drowningtheres no inbetween."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I feel like im either flying or drowningtheres no inbetween."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I talk quickly and jump between topics when I'm up."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I talk quickly and jump between topics when im up."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I feel incredibly creative and inspired then it all disappears."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "When I feel incredibly creative and inspired then it all disappears."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "How can I explain how my energy vanishes for no reason?"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "How can I explain how my energy disappears for no reason?"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I write pages of ideas one week and then hate all of them the next week. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I write pages of ideas one week and then hate all of them the next week. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it. I hate it."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I feel overly confident about things i later realize were risky."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I feel overly confident about things I later realize were risky."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "Sometimes I take on too many projects at once."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "Sometimes I take on too many projects at the same time."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I get irritated when people try to slow me down during highs."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I get irritated when people try to slow me down during highs. Is this normal?"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "My emotions feel like a rollercoaster i cant control."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "My emotions feel like a rollercoaster i can't control."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I made major life decisions in a moment of excitement. ive made major decisions in a moment of excitement."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I made major life decisions in a moment of excitement. ive made major life decisions in a moment of excitement."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I've gone days without sleeping and still felt amazing."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I have gone days without sleeping and still felt amazing."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "When I'm low i can't find joy in the things i love."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "When I'm low i can't find any joy in the things i love."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I can isolate myself for days without telling anyone."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "Sometimes i isolate myself for days without telling anyone."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I feel like im not myself half the time."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I feel like I'm not myself half the time."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "People say i change too fast, they don't understand it."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "Why do people say i change too fast?"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "i have periods where i write or create nonstop. i have periods where i write or create nonstop. i have periods where i write or create nonstop. i have periods where i write or create nonstop. i have periods where i write or create nonstop. i have periods where i write or create nonstop. i have periods where i write or create nonstop. i have periods where i write or create nonstop. i have periods where i write or"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I have periods where i write or create nonstop. i have periods where i write or create nonstop. i have periods where i write or create nonstop. i have periods where i write or create nonstop. i have periods where i write or create nonstop. i have periods where i write or create nonstop. i have periods where i write or create nonstop. i have periods where i write or create nonstop. i have periods where i write or create"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "When im in a high phase, i talk more and louder."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "When im in high phase, i talk more and louder."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "Why do I feel so exhausted after a high energy week?"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I feel exhausted after a highenergy week without knowing why."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I quit my job impulsively during a high and regretted it later."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I quit my job impulsively during a high and regretted it later on."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "When I'm down even brushing my teeth feels impossible."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "When I am down even brushing my teeth feels impossible."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I go from planning my future in detail to feeling hopeless."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "How can I go from planning my future in detail to feeling hopeless?"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I get frustrated when people can't keep up with my ideas."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I sometimes get frustrated when people can't keep up with my ideas."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "ive sent a lot of messages during highs that i later deleted."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I sent a lot of messages during highs that i later deleted."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I spend money recklessly during some phases of life. i can't control my spending. i can't control my spending. i can't control my spending. i can't control my spending. i can't control my spending. i can't control my spending. i can't control my spending. i can't control my spending. i can't control my spending. i can't control my spending. i can't control my spending."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I spend money recklessly during some phases of life. i can't control my spending. i can't control my spending. i can't control my spending. i can't control my spending. i can't control my spending. i can't control my spending. i can't control my spending. i can't control my spending. i can't control my spending. i can't control my spending. i can't control my spending. i can"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I sometimes feel like im too intense for people."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I sometimes feel like im too intense for people to understand me."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "My relationships suffer because of my mood swings."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "My relationship suffers because of my mood swings."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I go through cycles of feeling amazing and then broken. i go through cycles of feeling amazing and then broken. i go through cycles of feeling amazing and then broken. i go through cycles of feeling amazing and then broken. i go through cycles of feeling amazing and then broken. i go through cycles of feeling amazing and then broken. i go through cycles of feeling amazing and then broken. i go through cycles of feeling amazing and then broken. i go through cycles of feeling amazing and then broken. i go through cycles of"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I go through cycles of feeling amazing and then broken. i go through cycles of feeling amazing and then broken. i go through cycles of feeling amazing and then broken. i go through cycles of feeling amazing and then broken. i go through cycles of feeling amazing and then broken. i go through cycles of feeling amazing and then broken. i go through cycles of feeling amazing and then broken. I go through cycles of feeling amazing and then broken. i go through cycles of feeling amazing and then broken. i go through cycles of feeling"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I cant maintain consistencyit feels out of reach."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I cant maintain consistency it feels out of reach."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I have had weeks of nonstop activity followed by silence."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I had weeks of nonstop activity followed by silence."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I feel like two different people depending on the day."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I feel like two different people depending on the day. I feel like two different people depending on the day."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I sometimes feel super social and then i shut off for days."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I sometimes feel super social and then i shut off for days or even weeks."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I overshare when im manic and regret it later."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I overshare when im manic and regret it later on."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I feel overly ambitious and then crash hard. i feel overly ambitious and then crash hard. i feel overly ambitious and then crash hard. i feel overly ambitious and then crash hard. i feel overly ambitious and then crash hard. i feel overly ambitious and then crash hard. i feel overly ambitious and then crash hard. i feel overly ambitious and then crash hard. i feel overly ambitious and then crash hard. i feel overly ambitious and then crash hard. i feel over"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I feel overly ambitious and then crash hard. i feel overly ambitious and then crash hard. i feel overly ambitious and then crash hard. i feel overly ambitious and then crash hard. i feel overly ambitious and then crash hard. i feel overly ambitious and then crash hard. i feel overly ambitious and then crash hard. i feel overly ambitious and then crash hard. i feel overly ambitious and then crash hard. i feel overly ambitious and then crash hard."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I started a business out of nowhere. Is there a way to do it?"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I have started a business out of nowhere. Is there a way to do it?"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "Sometimes I act without thinking about consequences."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "Why do I act without thinking about consequences?"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I am very impulsive when im feeling high."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I am very impulsive when feeling high."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "During lows i question everything about myself."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "During lows I question everything about myself."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "How do I stop responding to messages when I'm down?"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "When I'm down, i stop responding to messages. How can I fix this?"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I sometimes think i can fix everythingthen nothing. i think i can fix everythingthen nothing. i think i can fix everythingthen nothing. i think i can fix everythingthen nothing. i think i can fix everythingthen nothing. i think i can fix everythingthen nothing. i think i can fix everythingthen nothing. i think i can fix everythingthen nothing. i think i can fix everythingthen nothing. i think i"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I sometimes think i can fix everythingthen nothing. i think i can fix everythingthen nothing. i think i can fix everythingthen nothing. i think i can fix everythingthen nothing. i think i can fix everythingthen nothing. i think i can fix everythingthen nothing. i think i can fix everythingthen nothing. i think i can fix everythingthen nothing. i think i can fix everything. i think i can fix everything"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "My mind races with ideas at 3am when im up."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "My mind races with ideas at 3am when I am up."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "When my mood shifts, i say things i regret.................................................."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "When my mood shifts, i say things i regret.................................................."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I feel emotionally drained even after nothing happens."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I feel emotionally drained even when nothing happens."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I feel restless even during exhaustion."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I feel restless even after exhaustion."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "How do I lose control of my sleep patterns?"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "How do I control my sleep patterns?"
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I go from overly confident to deeply insecure."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "I go from confident to deeply insecure."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "My highs feel amazing but the crashes are brutal."
+  },
+  {
+    "condition": "Bipolar",
+    "section": "User Descriptions",
+    "text": "My highs feel amazing, but the crashes are brutal."
+  }
+]

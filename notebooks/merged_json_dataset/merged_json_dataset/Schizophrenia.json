@@ -1,0 +1,812 @@
+[
+  {
+    "condition": "Schizophrenia",
+    "source": "https://www.nimh.nih.gov/health/statistics/schizophrenia",
+    "section": "Overview",
+    "text1": "Schizophrenia is a serious mental illness that affects how a person thinks, feels, and behaves; individuals may appear to have lost touch with reality.",
+    "text2": "The condition typically begins in late adolescence or early adulthood, though early signs may appear earlier in childhood.",
+    "text3": "Despite its relatively low prevalence (about 0.3–0.7%), schizophrenia is one of the top 15 causes of global disability.",
+    "text4": "Subtle cognitive and social changes often precede full psychotic symptoms, offering opportunities for early intervention.",
+    "text5": "While chronic, many individuals can lead meaningful lives with proper treatment and support."
+  },
+  {
+    "condition": "Schizophrenia",
+    "source": "https://www.nimh.nih.gov/health/statistics/schizophrenia",
+    "section": "Symptoms",
+    "text1": "Psychotic symptoms include hallucinations (often hearing voices), delusions, and disorganized speech or behavior.",
+    "text2": "Negative symptoms can involve reduced emotional expression, motivation, speech, and social engagement.",
+    "text3": "Cognitive symptoms, affecting memory and reasoning, often appear early in the prodromal phase.",
+    "text4": "Prodromal signs include social withdrawal, poor hygiene, sleep issues, and a decline in performance.",
+    "text5": "These symptoms vary in severity but have a major impact on functioning and quality of life."
+  },
+  {
+    "condition": "Schizophrenia",
+    "source": "https://www.nimh.nih.gov/health/statistics/schizophrenia",
+    "section": "Causes",
+    "text1": "Schizophrenia arises from a complex interaction of genetic predisposition and environmental triggers.",
+    "text2": "Having a close relative with schizophrenia significantly increases one’s risk.",
+    "text3": "Environmental factors such as childhood adversity, urban upbringing, and substance use can elevate risk.",
+    "text4": "Brain development disruptions and neurobiological differences are implicated in the disorder's origin.",
+    "text5": "Prodromal detection and early intervention may improve long-term outcomes by mitigating developmental impacts."
+  },
+  {
+    "condition": "Schizophrenia",
+    "source": "https://www.nimh.nih.gov/health/publications/schizophrenia",
+    "section": "Treatment Options",
+    "text1": "Antipsychotic medications are foundational in managing psychotic symptoms and improving daily function.",
+    "text2": "Coordinated specialty care (CSC), including the RAISE initiative, integrates medication, therapy, and support services early in treatment.",
+    "text3": "Psychosocial treatments like psychotherapy, supported employment, and social skills training improve recovery.",
+    "text4": "Treatment is lifelong; even during symptom remission, continued medication and therapy reduce relapse risk.",
+    "text5": "Family involvement and education enhance adherence and outcomes, especially in coordinated care settings."
+  },
+  {
+    "condition": "Schizophrenia",
+    "source": "https://www.nimh.nih.gov/health/publications/schizophrenia",
+    "section": "Coping Tips",
+    "text1": "Create and follow a consistent routine—sleep, meals, medication—to stabilize mood and functioning.",
+    "text2": "Recognize warning signs early and engage support systems or healthcare providers promptly.",
+    "text3": "Engage in supportive psychotherapy and communicate goals with family or friends.",
+    "text4": "Practice stress reduction techniques like mindfulness, journaling, or relaxation to maintain well-being.",
+    "text5": "Participate in peer or community support groups to reduce isolation and enhance recovery."
+  },
+  {
+    "condition": "Schizophrenia",
+    "source": "https://www.nimh.nih.gov/health/statistics/schizophrenia",
+    "section": "When to Seek Help",
+    "text1": "Seek evaluation if experiencing hallucinations, delusions, disorganized thinking, or withdrawal from reality.",
+    "text2": "Early symptoms like reduced motivation, cognitive decline, or social withdrawal warrant professional attention.",
+    "text3": "Early intervention during first-episode psychosis offers better outcomes and a greater chance for recovery.",
+    "text4": "If prescribed medication, consistent usage and follow-up care are essential to prevent relapse.",
+    "text5": "Family members and caregivers should seek support and resources when noticing concerning behavior changes."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i hear voices telling me things even when im alone"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "sometimes i feel like the tv is sending me secret messages"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "people are watching me i just know it"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i cant tell whats real anymore"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "my thoughts feel like theyre being controlled by someone else"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i have trouble understanding what others are sayingit doesnt make sense"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i think the government is monitoring my thoughts"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "my brain feels like its full of static"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i feel disconnected from my body"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i dont trust anyone not even my family"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "im terrified of mirrorsthey show something thats not me"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i have conversations with people who others say arent there"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i believe im part of something much bigger like a secret mission"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i find it hard to express myself in words"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "sometimes i burst out laughing or crying for no reason"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i cant focus on anythingmy mind jumps too fast"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i avoid crowded places because i think people are talking about me"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i see things moving in the corners of my eyes"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "my thoughts feel jumbled and scattered"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i dont sleep because im afraid of what i might see or hear"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i feel like im losing control of my mind"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i keep thinking people are plotting against me"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i get confused easily when people talk"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "its hard to tell dreams from reality now"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "sometimes i feel like im not in my own life"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i have trouble organizing my day or following through on tasks"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "my head feels noisy like theres a constant echo"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i dont know what emotions im supposed to feel"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i think my neighbors are spying on me"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i feel like people are reading my thoughts"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i hear music that no one else can hear"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i worry that my food is being poisoned"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i often talk to myself out loud to calm down"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i forget what im doing midtask"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i find it hard to trust my own memories"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i think im being followed by unknown forces"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "my vision becomes distorted in certain lights"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i feel like im being watched through my phone"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i keep thinking i have powers others cant understand"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "my ideas jump around and are hard to finish"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i cant always understand facial expressions"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "sometimes i believe im someone else entirely"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i cover mirrors because they frighten me"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i fear that my thoughts are not my own"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i often speak in ways others say dont make sense"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i hear people calling my name when no ones around"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i cant tell if something actually happened or i imagined it"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i get scared by things others dont see"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i feel completely detached from the world"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i think my phone is sending my thoughts to others"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I hear voices telling me things even when im alone."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I can hear voices telling me things even when im alone."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I feel like tv is sending me a secret message."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I feel like the TV is sending me a secret message."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I know people are watching me but I don't know why."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I know people are watching me, but I don't know why."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I can't tell what's real anymore."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I can't tell what is real anymore."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "My thoughts feel like they are being controlled by someone else."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I feel like my thoughts are being controlled by someone else."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I have trouble understanding what others are sayingit doesn't make sense."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I have trouble understanding what others are sayingit doesnt make sense."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I think the government is monitoring my thoughts. I think the government is monitoring my thoughts."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I think the government is monitoring my thoughts."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "My brain feels like its full of static."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "My brain feels like it's full of static."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "Why do I feel disconnected from my body?"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I feel disconnected from my body."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I don't trust anyone, not even my family."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I dont trust anyone, not even my family."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I'm afraid of mirrors. They show something that's not me."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I'm terrified of mirrors. They show something that's not me."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I have conversations with people who others say aren't there. i have conversations with people who aren't there. i have conversations with people who aren't there. i have conversations with people who aren't there. i have conversations with people who aren't there. i have conversations with people who aren't there. i have conversations with people who aren't there. i have conversations with people who aren't there. i have conversations with people who are"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I have conversations with people who others say aren't there. i have conversations with people who others say aren't there. i have conversations with people who aren't there. i have conversations with people who aren't there. i have conversations with people who aren't there. i have conversations with people who aren't there. i have conversations with people who aren't there. i have conversations with people who aren't there. i have conversations with people"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I believe im part of something much bigger like a secret mission. I believe im part of something much bigger like a secret mission."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I believe im part of something much bigger like a secret mission. i believe im part of something much bigger like a secret mission. i believe im part of something much bigger like a secret mission."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I find it hard to express myself in words."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "How do I express myself in words?"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "Sometimes I burst out laughing or crying for no reason."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "Sometimes i burst out laughing or crying for no reason."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I can't focus on anythingmy mind jumps too fast."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I can't focus on anythingmy mind jumps too fast. I can't focus on anything."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I avoid crowded places because i think people are talking about me. i avoid crowded places because i think people are talking about me. i avoid crowded places because i think people are talking about me. i avoid crowded places because i think people are talking about me. i avoid crowded places because i think people are talking about me. i avoid crowded places because i think people are talking about me. i avoid crowded places because i think people are talking about me. i"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I avoid crowded places because i think people are talking about me. i avoid crowded places because i think people are talking about me. i avoid crowded places because i think people are talking about me. i avoid crowded places because i think people are talking about me. i avoid crowded places because i think people are talking about me. i avoid crowded places because i think people are talking about me. i avoid crowded places because i think people are talking about me."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I see things moving in the corners of my eyes. i see things moving in the corners of my eyes. i see things moving in the corners of my eyes. i see things moving in the corners of my eyes. i see things moving in the corners of my eyes. i see things moving in the corners of my eyes. i see things moving in the corners of my eyes. i see things moving in the corners of my eyes. i see things moving in the corners of my eyes. i see things moving in"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I can see things moving in the corners of my eyes. i see things moving in the corners of my eyes. i see things moving in the corners of my eyes. i see things moving in the corners of my eyes. i see things moving in the corners of my eyes. i see things moving in the corners of my eyes. i see things moving in the corners of my eyes. i see things moving in the corners of my eyes. i see things moving in the corners of my eyes. i see things moving"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "My thoughts feel jumbled and scattered."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "My thoughts feel scattered and jumbled."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I don't sleep because im afraid of what I might see or hear."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I dont sleep because im afraid of what I might see or hear."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I feel like I'm losing control of my mind."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I feel like I am losing control of my mind."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I keep thinking people are plotting against me. i keep thinking that people are plotting against me. i keep thinking that people are plotting against me. i keep thinking that people are plotting against me. i keep thinking that people are plotting against me. i keep thinking that people are plotting against me. i keep thinking that people are plotting against me. i keep thinking that people are plotting against me. i keep thinking that people are plotting against me. i keep thinking that people are"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I keep thinking people are plotting against me. i keep thinking people are plotting against me. i keep thinking that people are plotting against me. i keep thinking that people are plotting against me. i keep thinking that people are plotting against me. i keep thinking that people are plotting against me. i keep thinking that people are plotting against me. i keep thinking that people are plotting against me. i keep thinking that people are plotting against me. i keep thinking that people are plot"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I get confused easily when people talk about me."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I get confused easily when people talk to me."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "Is it hard to tell dreams from reality?"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "How do you tell a dream from a reality?"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "Sometimes i feel like im not in my own life."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "Sometimes I feel like im not in my own life."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I have trouble organizing my day or following through on tasks."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "How do I organize my day?"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "My head feels loud like there's a constant echo."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "My head feels loud like there's a constant echo echo."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I don't know what emotions I'm supposed to feel."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I don't know what emotions I'm supposed to feel. I know what emotions I'm supposed to feel."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I think my neighbors are spying on me. Is this true?"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I think my neighbors are spying on me. Why?"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I feel like people are reading my thoughts."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "Why do I feel like people are reading my thoughts?"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I hear music that no one else can hear."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I hear music that nobody else can hear."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "Is my food poisoned?"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "Is my food being poisoned?"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I often talk to myself out loud to calm down."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I often talk to myself to calm down."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I forget what I'm doing midtask. i'm not doing anything. i'm not doing anything midtask. i'm not doing anything midtask. i'm not doing anything midtask. i'm not doing anything midtask. i'm not doing anything midtask. i'm not doing anything midtask. i'm not doing anything midtask. i'm not doing anything midtask. i'm not doing anything midtask."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I forget what I'm doing midtask. i'm not doing anything. i'm not doing anything midtask. i'm not doing anything midtask. i'm not doing anything midtask. i'm not doing anything midtask. i'm not doing anything midtask. i'm not doing anything midtask. i'm not doing anything midtask. i'm doing something midtask. i'm doing something midtask. i'm not doing anything"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I find it hard to trust my own memories."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "How do I trust my own memories?"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I think im being followed by unknown forces. I think im being followed by unknown forces."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I think I'm being followed by unknown forces. I think I'm being followed by unknown forces."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "My vision becomes distorted in certain lights."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "My vision becomes distorted in certain light."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I feel like I'm being watched through my phone."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I feel like I'm being watched on my phone."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I keep thinking i have powers that others cant understand. i keep thinking i have them. i keep thinking i have them. i keep thinking i have them. i keep thinking i have them. i keep thinking i have them. i keep thinking i have them. i keep thinking i have them. i keep thinking i have them. i keep thinking i have them. i keep thinking i have them. i keep thinking i have them."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I keep thinking i have powers that others cant understand. i keep thinking i have them. i keep thinking i have them. i keep thinking i have them. i keep thinking i have them. i keep thinking i have them. i keep thinking i have them. i keep thinking i have them. i keep thinking i have them. i keep thinking i have them. i keep thinking i have them. i keep thinking i have them. I"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "My ideas jump around and are hard to finish."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "My ideas jump around and are hard to finish. I have a lot of ideas."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I can't understand facial expressions. I can't always understand facial expressions."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I can't always understand facial expressions. I can't always understand facial expressions."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "Sometimes i believe im someone else entirely. Sometimes i believe in someone else entirely. Sometimes i believe in someone else entirely."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "Sometimes i believe im someone else entirely. Sometimes i believe in someone else completely. Sometimes i believe in someone else entirely."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I cover mirrors because they frighten me. i cover mirrors because they frighten me. i cover mirrors because they frighten me. i cover mirrors because they frighten me. i cover mirrors because they frighten me. i cover mirrors because they frighten me. i cover mirrors because they frighten me. i cover mirrors because they frighten me. i cover mirrors because they fright"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "i cover mirrors because they frighten me. i cover mirrors because they frighten me. i cover mirrors because they frighten me. i cover mirrors because they frighten me. i cover mirrors because they frighten me. i cover mirrors because they frighten me. i cover mirrors because they frighten me. i cover mirrors because they frighten me. i cover mirrors because they f"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I fear that my thoughts are not my own. I fear that my thoughts are not my own. I fear that my thoughts are not my own. I fear that my thoughts are not my own. I fear that my thoughts are not my own. I fear that my thoughts are not my own. I fear that my thoughts are not my own. I fear that my thoughts are not my own. I fear that my thoughts are not my own. I fear that my thoughts are not my own. I fear that my thoughts are not my own."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I fear that my thoughts are not my own. I fear that my thoughts are not my own. I fear that my thoughts are not my own. I fear that my thoughts are not my own. I fear that my thoughts are not my own. I fear that my thoughts are not my own. I fear that my thoughts are not my own. I fear that my thoughts are not my own. I fear that my thoughts are not my own. I fear that my thoughts are not my own."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I often speak in ways that others say don't make sense.................................................."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I often speak in ways that others say don't make sense..............................,..................."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "Why do I hear people calling my name when no one around me is around?"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I hear people calling my name when there is no one around."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I can't tell if something actually happened or i imagined it."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I can't tell if something happened or i imagined it."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I get scared by things that others don't see."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I get scared when I see things that others don't see."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I feel completely detached from the world."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I feel totally detached from the world."
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I think my phone is sending my thoughts to others. i think my phone is sending my thoughts to others. i think my phone is sending my thoughts to others. i think my phone is sending my thoughts to others. i think my phone is sending my thoughts to others. i think my phone is sending my thoughts to others. i think my phone is sending my thoughts to others. i think my phone is sending my thoughts to others. i think my phone is sending my thoughts to others. i think my phone is"
+  },
+  {
+    "condition": "Schizophrenia",
+    "section": "User Descriptions",
+    "text": "I think my phone is sending my thoughts to others. i think my phone is sending my thoughts to others. i think my phone is sending my thoughts to others. i think my phone is sending my thoughts to others. i think my phone is sending my thoughts to others. i think my phone is sending my thoughts to others. i think my phone is sending my thoughts to others. i think my phone is sending my thoughts to others. i think my phone is sending my thoughts to others."
+  }
+]

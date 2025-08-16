@@ -1,0 +1,802 @@
+[
+  {
+    "condition": "ADHD",
+    "source": "https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd",
+    "section": "Overview",
+    "text1": "Attention‑deficit/hyperactivity disorder (ADHD) is a chronic neurodevelopmental disorder characterized by patterns of inattention and/or hyperactivity-impulsivity.",
+    "text2": "It typically begins in childhood and often persists into adulthood, affecting both academic and occupational functioning.",
+    "text3": "Individuals with ADHD may experience difficulties with time management, staying organized, and maintaining focus on tasks.",
+    "text4": "The condition is not a result of poor parenting or lack of discipline, but is instead rooted in brain structure and function differences.",
+    "text5": "ADHD can significantly impact social relationships and self-esteem if left unmanaged."
+  },
+  {
+    "condition": "ADHD",
+    "source": "https://www.nimh.nih.gov/health/statistics/attention-deficit-hyperactivity-disorder-adhd",
+    "section": "Symptoms",
+    "text1": "ADHD symptoms fall into two broad categories: inattention and hyperactivity-impulsivity.",
+    "text2": "Inattention symptoms include frequent daydreaming, careless mistakes, difficulty listening, and trouble organizing tasks.",
+    "text3": "Hyperactivity symptoms may involve constant motion, restlessness, fidgeting, and difficulty remaining seated.",
+    "text4": "Impulsivity can manifest as interrupting others, blurting out answers, or difficulty waiting one’s turn.",
+    "text5": "Symptoms must be persistent, appear before age 12, and impair functioning in more than one setting (e.g., school and home)."
+  },
+  {
+    "condition": "ADHD",
+    "source": "https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know",
+    "section": "Diagnosis",
+    "text1": "ADHD is diagnosed through comprehensive clinical evaluation, including behavioral observations and standardized rating scales.",
+    "text2": "Symptoms must be present for at least six months and be inappropriate for the individual’s developmental level.",
+    "text3": "In adults, a diagnosis requires at least five symptoms of inattention or hyperactivity-impulsivity that began before age 12.",
+    "text4": "Information is usually collected from multiple sources such as parents, teachers, or partners.",
+    "text5": "Clinicians must also rule out other conditions that could explain the symptoms, like anxiety, learning disabilities, or mood disorders."
+  },
+  {
+    "condition": "ADHD",
+    "source": "https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know",
+    "section": "Treatment Options",
+    "text1": "ADHD treatment often combines medication, behavioral therapies, and educational interventions.",
+    "text2": "Stimulant medications like methylphenidate and amphetamines are first-line treatments and can improve focus and impulse control.",
+    "text3": "Non-stimulant medications such as atomoxetine may be used when stimulants cause side effects or are ineffective.",
+    "text4": "Behavioral therapy can include parent training, social skills training, and cognitive behavioral therapy (CBT).",
+    "text5": "Other supports may include classroom accommodations, organizational coaching, and lifestyle changes like exercise and sleep routines."
+  },
+  {
+    "condition": "ADHD",
+    "source": "https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know",
+    "section": "When to Seek Help",
+    "text1": "Seek help if symptoms interfere with daily activities, academic performance, or relationships.",
+    "text2": "Indicators include frequent missed deadlines, trouble following instructions, and impulsive behavior that leads to conflicts.",
+    "text3": "Consult a healthcare provider or mental health professional for an accurate diagnosis and individualized treatment plan.",
+    "text4": "Early intervention can significantly improve long-term outcomes and help individuals reach their full potential.",
+    "text5": "Support from family, teachers, and counselors plays a crucial role in managing ADHD effectively."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i get distracted halfway through every task i start"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "my mind jumps from one thing to another constantly"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i cant sit still during meetingsit drives me crazy"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i keep misplacing my phone even when its right next to me"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i zone out during conversations without realizing it"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "deadlines sneak up on me no matter how hard i try to plan"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i start projects with excitement but rarely finish them"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i interrupt people without meaning toit just blurts out"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i feel like my thoughts are racing in ten directions at once"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i forget what i was about to do the moment i stand up"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i lose track of time and end up rushing everything"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "even in quiet settings my brain feels loud and chaotic"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i have ten browser tabs open and cant focus on any"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i bounce my legs or tap fingers constantly i cant stop"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "reading books is hardi reread the same page often"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i get overwhelmed by simple organizational tasks"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "my room turns into a mess no matter how much i clean"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i struggle to remember appointments and plans"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i speak without thinking and regret it later"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i cant focus unless theres a looming deadline"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i feel like i have to move to think clearly"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i forget instructions moments after hearing them"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i get frustrated by how easily i lose focus"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i often feel like im underachieving despite trying hard"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i cant follow long conversations without zoning out"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "its hard for me to finish what i start"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i leave tasks halfway through when something new interests me"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i procrastinate until i panic then work in a frenzy"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i get bored very quicklyeven with things i like"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i rely on alarms and sticky notes to function daily"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i space out while driving without realizing it"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i feel too much energy but dont know what to do with it"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i forget simple things like locking the door or turning off the stove"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i jump from one hobby to another every few weeks"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i talk really fast and sometimes people cant keep up"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i avoid paperwork or emailsit overwhelms me"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i get impatient when others talk slowly"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i feel restless even when im exhausted"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i fidget in my seat all the time even at restaurants"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i find it hard to follow stepbystep instructions"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i open apps and forget why i opened them"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i need background noise to concentratebut then it distracts me"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i make impulsive purchases and regret them later"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i avoid boring tasks until they become urgent"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i feel disorganized no matter how hard i try"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i get frustrated by rules or structure"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i forget names and dates easily"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i lose my train of thought midsentence"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i multitask badlyi just switch between things rapidly"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i constantly feel like im forgetting something"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I get distracted halfway through every task i start."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I get distracted halfway through every task I start."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "My mind jumps from one thing to another constantly."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "My mind jumps from one thing to the next constantly."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "Why can't I sit still during meetings?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I can't sit still during meetings it drives me crazy."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "Why do I keep misplacing my phone even when its right next to me?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I keep misplacing my phone even when its right next to me."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "How can I zone out during a conversation without realizing it?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I can't seem to zone out during a conversation without realizing it."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "No matter how hard I try to plan, deadlines sneak up on me."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "No matter how hard I try to plan, deadlines always sneak up on me."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I start a project with excitement but rarely finish it. i have a lot of passion for it. i have a lot of passion for it. i have a lot of passion for it. i have a lot of passion for it. i have a lot of passion for it. i have a lot of passion for it. i have a lot of passion for it. i have a lot of passion for it. i have a lot of passion for it. i"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I start a project with excitement but rarely finish it. i have a lot of passion for it. i have a lot of passion for it. i have a lot of passion for it. i have a lot of passion for it. i have a lot of passion for it. i have a lot of passion for it. i have a lot of passion for it. i have a lot of passion for it. i have a lot of enthusiasm for it. i"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I interrupt people without meaning toit just blurts out..................................................."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I interrupt people without meaning toit just blurts out..........................,........................"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I feel like my thoughts are racing in ten directions at once."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I feel like my thoughts are racing in ten directions at the same time."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I forget what I was about to do the moment I stand up."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I forget what I was about to do the moment i stand up."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I lose track of time and end up rushing everything."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "When I lose track of time, I end up rushing everything."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "Even in quiet settings my brain feels loud and chaotic."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "Even in quiet settings, my brain feels loud and chaotic."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I have ten browser tabs open and can't focus on any of them. What should I do?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I have ten browser tabs open and can't focus on any of them. How can I fix this?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I bounce my legs or tap my fingers constantly i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I bounce my legs or tap my fingers constantly i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i can't stop i bounce my legs or tap my"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "Reading books is hardi reread the same page often."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "Reading books is hardi reread the same page many times."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I get overwhelmed by simple organizational tasks. i get overwhelmed by simple tasks. i get overwhelmed by simple organizational tasks. i get overwhelmed by simple organizational tasks. i get overwhelmed by simple organizational tasks. i get overwhelmed by simple organizational tasks. i get overwhelmed by simple organizational tasks. i get overwhelmed by simple organizational tasks. i get overwhelmed by simple organizational tasks. i get overwhelmed by simple organizational tasks. i get overwhelmed by simple organizational tasks. i get overwhelmed by simple organizational tasks."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I get overwhelmed by simple organizational tasks. i get overwhelmed by simple tasks. i get overwhelmed by simple tasks. i get overwhelmed by simple tasks. i get overwhelmed by simple tasks. i get overwhelmed by simple tasks. i get overwhelmed by simple tasks. i get overwhelmed by simple tasks. i get overwhelmed by simple tasks. i get overwhelmed by simple tasks. i get overwhelmed by simple tasks. i get overwhelmed by simple tasks. i get overwhelmed by simple tasks. i get overwhelmed by simple tasks."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "My room turns into a mess no matter how much I clean it."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "My room turns into a mess no matter how much i clean it."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "How do I remember appointments and plans?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "How do I remember my appointments and plans?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I speak without thinking and regret it later."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I speak without thinking and regret it later on."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I can't focus unless there's a looming deadline. i can't focus unless there's a looming deadline. i can't focus unless there's a looming deadline. i can't focus unless there's a looming deadline. i can't focus unless there's a looming deadline. i can't focus unless there's a looming deadline. i can't focus"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I can't focus unless there's a looming deadline. i can't focus unless there's a looming deadline. i can't focus unless there's a looming deadline. i can't focus unless there's a looming deadline. i can't focus unless there's a looming deadline. i can't focus unless there's a looming deadline."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I feel like I have to move to think clearly."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I feel like i have to move to think clearly."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "How do I forget instructions after hearing them?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "How can I forget instructions after hearing them?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I get frustrated at how easily I lose focus."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I get frustrated by how easily I lose focus."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I often feel like im underachieving despite trying hard."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I feel like im underachieving despite trying hard."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "Can I follow long conversations without zoning out?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I can't follow long conversations without zoning out."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "Is it hard for me to finish what I started?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "Is it hard for me to finish what I start?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I leave tasks halfway through when something new interests me. i leave tasks halfway through when something new interests me. i leave tasks halfway through when something new interests me. i leave tasks halfway through when something new interests me. i leave tasks halfway through when something new interests me. i leave tasks halfway through when something new interests me. i leave tasks halfway through when something new interests me. i leave tasks halfway through when something new interests me. i leave tasks halfway through when something new interests me. i leave tasks halfway through"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I leave tasks halfway through when something new interests me. i leave tasks halfway through when something new interests me. i leave things halfway through when something new interests me. i leave tasks halfway through when something new interests me. i leave tasks halfway through when something new interests me. i leave tasks halfway through when something new interests me. i leave tasks halfway through when something new interests me. i leave tasks halfway through when something new interests me. i leave tasks halfway through when something new interests me. i leave tasks halfway through"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I procrastinate until i panic then work in a frenzy."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I procrastinate until I panic then work in a frenzy."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I get bored very quicklyeven with things i like."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I get bored very quicklyeven with things I like."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I rely on alarms and sticky notes to function daily."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I rely on alarms and sticky notes to function daily. i rely on alarms and sticky notes to function daily."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "Is it possible to space out while driving without realizing it?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "How can I space out while driving without realizing it?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I feel like I have too much energy but don't know what to do with it."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I feel like I have too much energy but I don't know what to do with it."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I forget simple things like locking the door or turning off the stove."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "Why do I forget to lock the door or turn off the stove?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I jump from one hobby to another every few weeks."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I jump from one hobby to another every few weeks. I'm a hobbyist. I'm a hobbyist. I'm a hobbyist. I'm a hobbyist. I'm a hobbyist. I'm a hobbyist. I'm a hobbyist. I'm a hobbyist. I'm a hobbyist. I'm a hobbyist. I'm a hobbyist. I'm a hobbyist. I'm a hobby"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I talk really fast and sometimes people can't keep up with me."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I can talk really fast and sometimes people can't keep up with me."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I avoid paperwork or emailsit overwhelms me."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "How can I avoid paperwork or emailsit overwhelms me?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I get impatient when other people talk slowly."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I get impatient when people talk slowly."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I feel restless even when im exhausted."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I feel restless even when I'm exhausted."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I fidget in my seat all the time even at restaurants."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I fidget in my seat all the time even in restaurants."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "How do I follow step by step instructions?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "How can I follow step by step instructions?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "When I open an app I forget the reason why I opened it. I can't remember why I opened it."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "When I open an app I forget the reason why I opened it."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I need background noise to concentrate but then it distracts me."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I need background noise to concentrate on something but then it distracts me."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I make impulsive purchases and regret them later. i make impulsive purchases and regret them later. i make impulsive purchases and regret them later. i make impulsive purchases and regret them later. i make impulsive purchases and regret them later. i make impulsive purchases and regret them later. i make impulsive purchases and regret them later. i make impulsive purchases and regret them later. i make impulsive purchases and regret them later. i make impulsive"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I make impulsive purchases and regret them later. i make impulsive purchases and regret them later. i make impulsive purchases and regret them later. i make impulsive purchases and regret them later. i make impulsive purchases and regret them later. i make impulsive purchases and regret them later. i make impulsive purchases and regret them later. i make impulsive purchases and regret them later. i make impulsive purchases and regret them later."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "How do I avoid boring tasks until they become urgent?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I avoid boring tasks until they become urgent."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I feel disorganized no matter how hard I try."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I feel disorganized no matter how hard i try."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I get frustrated by rules or structure. i get frustrated by rules or structure or i get frustrated by rules or structure or i get frustrated by rules or structure or i get frustrated by structure or i get frustrated by rules or structure or i get frustrated by structure or i get frustrated by rules or structure or i get frustrated by structure or i get frustrated by structure or i get frustrated by rules or structure or i get frustrated by structure or i get frustrated by structure or i get frustrated by rules or structure or"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I get frustrated by rules or structure. i get frustrated by rules or structure or i get frustrated by rules or structure or i get frustrated by rules or structure or i get frustrated by structure or i get frustrated by rules or structure or i get frustrated by structure or i get frustrated by structure or i get frustrated by rules or structure or i get frustrated by structure or i get frustrated by structure or i get frustrated by structure or i get frustrated by rules or structure or i get frustrated by structure or i"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "How do I forget my names and dates?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "How do I forget my names and dates easily?"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I lose my train of thought midsentence."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "i lose my train of thought midsentence. i am a logical thinker. i am a rational thinker. i am a rational thinker. i am a rational thinker. i lose my train of thought midsentence. i lose my train of thought midsentence. i lose my train of thought midsentence. i lose my train of thought midsentence. i lose my train of thought midsentence. i lose my train of thought midsentence"
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I'm a multitasker. I just switch between things quickly."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I'm a multitasker. I just switch between things rapidly."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I constantly feel like im forgetting something."
+  },
+  {
+    "condition": "ADHD",
+    "section": "User Descriptions",
+    "text": "I always feel like im forgetting something."
+  }
+]
